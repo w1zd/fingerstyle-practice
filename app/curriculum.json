@@ -83,7 +83,7 @@
         "id": "tune",
         "title": "Tune and settle",
         "minutes": 2,
-        "instructions": "Tune standard E A D G B E from thickest to thinnest. Drop your shoulders; support the guitar without squeezing."
+        "instructions": "Tune standard E A D G B E from thickest to thinnest. Drop your shoulders; support the guitar without squeezing. Before a piece in another tuning, retune with a tuner using its score."
       },
       {
         "id": "coordination",
@@ -383,7 +383,7 @@
       "id": "yama-lesson",
       "title": "L Guitar School: 奇跡の山 lesson notes",
       "url": "https://el-guitarschool.com/blog/lesson401-450/gita-kyousituressunnkyoku-kisekinoyama/",
-      "use": "Hard spots: stretchy shapes, a neck-bend “wave”, vibrato and staccato muting. A student with 6 months’ experience took about 3 months to play it slowly.",
+      "use": "Hard spots: stretchy shapes, an optional advanced neck-bend “wave”, vibrato and staccato muting. A student with 6 months’ experience took about 3 months to play it slowly.",
       "access": "Free blog (Japanese)."
     },
     {
@@ -1312,10 +1312,10 @@
       "milestone": {
         "title": "Your own secret base arrangement",
         "testSteps": [
-          "Play your secret base arrangement (verse, chorus, intro and outro), written as TAB + rhythm + chord numbers.",
+          "Play your own melody-and-bass arrangement of secret base, or another familiar tune: include at least a complete verse or chorus, plus a simple intro and ending. Write TAB or a chord-and-rhythm outline you can follow.",
           "The melody stays on top; the bass follows the chord numbers.",
-          "Include one colour element: a slap on 2 and 4 in the last chorus, or a harmonic ending.",
-          "Record the whole arrangement twice on different days."
+          "If the core arrangement is steady, try a slap on beats 2 and 4 or a harmonic ending. This colour is optional.",
+          "Record your chosen complete short arrangement twice on different dates."
         ],
         "passCriteria": "A coherent, repeatable melody-and-bass arrangement. Sparse texture is enough; no extra fill or speed requirement.",
         "suggestedTempo": "Comfortable melody tempo",
@@ -1395,8 +1395,8 @@
       "milestone": {
         "title": "Three-piece progress + planned dynamics",
         "testSteps": [
-          "Play your secret base arrangement, one finished practice piece and the full 流れ行く雲.",
-          "Record eight bars with a planned dynamic change plus one percussive or harmonic element at a stable tempo.",
+          "Play two polished simple solos plus a complete third tune or a substantial connected section. Use 流れ行く雲 if ready; another learned practice piece is equally valid.",
+          "Record eight bars with a planned dynamic change at a stable tempo. Add percussion or a harmonic only if it preserves the melody and pulse.",
           "Listen: melody should remain clear when the phrase becomes softer.",
           "Repeat the dynamic test on a different day."
         ],
@@ -1477,15 +1477,15 @@
       "solo": "Goal piece: 奇跡の山 Stage 2 (open D, capo 2), the main theme with bass, 8–16 bars, at 70–90% of your target tempo, with a small vibrato on long notes. Goal piece: 流れ行く雲 Stage 4, flowing at ♩=55–63. Bonus practice pieces: Sor’s Andante Op. 35 No. 1 (two independent voices) and The Skye Boat Song. Oshio pieces (Sakura Saku Koro, Twilight) can be next year’s dream.",
       "ear": "Transcribe the excerpt’s motif and label its chords with numbers. Play along with the original recording at 70–90% speed with Transcribe!. Describe what makes it appealing: tune, bass motion, rhythm or phrasing.",
       "milestone": {
-        "title": "The 奇跡の山 theme, with bass",
+        "title": "A clear theme with bass",
         "testSteps": [
-          "Tune to open D with capo 2.",
-          "Play the main theme with bass, 8–16 bars, at a logged tempo.",
-          "Keep secret base and 流れ行く雲 playable.",
-          "Record the theme on two separate days and compare with the Month 9 melody-only take."
+          "Choose the 奇跡の山 main theme, or an 8–16-bar theme from a simpler piece you have learned. Use the tuning and capo shown in your chosen arrangement.",
+          "Play your selected theme with bass at a logged comfortable tempo.",
+          "Keep two complete simpler solos playable.",
+          "Record the same theme on two separate dates. Compare melody clarity, bass balance and pulse; use a melody-only take as a reference if available."
         ],
         "passCriteria": "The theme is recognisable with a steady pulse and supporting bass. Slow is fine; stretches can stay simplified.",
-        "suggestedTempo": "Clean core tempo; dream excerpt at 70–90% of the recording",
+        "suggestedTempo": "Your clean theme tempo; no required percentage of the original recording",
         "noteRate": "The selected score’s meter",
         "repeatOnDifferentDays": true,
         "optional": "Recognisable simplified 4–8-bar dream excerpt"
@@ -1558,7 +1558,7 @@
       "focus": "Choose three favourites and play them consecutively.",
       "coordination": "Rotate each piece’s start, hardest join, middle-entry point and final shape. Practise the actual movement without rushing. A fourth simple solo is optional only if the existing three are reliable. Use full F or Bm in repertoire only if a piece needs it.",
       "picking": "Check melody balance in the opening and ending of each piece. Keep bass soft and steady. Use each score’s rhythm rather than one generic drill across the set.",
-      "solo": "Your set: secret base (your arrangement), 流れ行く雲 and 奇跡の山 (the theme, or further if ready). Keep one favourite practice piece as a backup. Plan the retuning between pieces: standard → C G D G A D → open D. Memorise by landing spots, 3–5 in each piece, practised in random order. Do one no-stop run a day, one after a 60-second jog, and one for a listener. Goal piece: 奇跡の山 Stage 3, the stretch section in 5–10 minute drills.",
+      "solo": "Your set: secret base (your arrangement), 流れ行く雲 and 奇跡の山 (the theme, or further if ready). Keep one favourite practice piece as a backup. Plan the retuning between pieces: standard → C G D G A D → open D. Memorise by landing spots, 3–5 in each piece, practised in random order. Do one no-stop run a day, one for a listener or the camera when comfortable. Goal piece: 奇跡の山 Stage 3, the stretch section in 5–10 minute drills.",
       "ear": "Hear each piece in your head (audiation) away from the guitar, from one landing spot to the next. Listen to a full-set take once and choose the weakest musical moment: timing, clarity, continuity or balance.",
       "milestone": {
         "title": "A recoverable three-piece set",
@@ -1638,13 +1638,13 @@
       "focus": "A personal recording and evidence of your year’s progress.",
       "coordination": "Refine the set’s hardest movements; use the Month 1 chord benchmark at its original recorded tempo for comparison. Recheck small shapes gently rather than adding demanding new ones.",
       "picking": "Refine melody and supporting voices in eight-bar phrases. Re-test every technique strand at a fair comparison: Pattern A at its original tempo, Pattern B, Travis picking (aim 80–90 BPM), 16 bars of backbeat slap, and harmonics at 12/7/5.",
-      "solo": "Polish the three-piece set and record it. Goal piece: 奇跡の山 Stage 4, the whole piece slowly, with the neck-bend wave and muting. Optional: secret base Stage 5 (a published version). Recording: phone 6–18 inches from the 12th–14th fret, away from the soundhole, with a clipping test and three takes. Then play through your practice-piece collection for fun and count how many you know.",
+      "solo": "Polish the three-piece set and record it. Goal piece: 奇跡の山 Stage 4, an optional whole-piece attempt, slowly, with clear muting and ordinary fretted vibrato; leave out the neck-bend effect. Optional: secret base Stage 5 (a published version). Recording: phone 6–18 inches from the 12th–14th fret, away from the soundhole, with a clipping test and three takes. Then play through your practice-piece collection for fun and count how many you know.",
       "ear": "Compare Month 1 with Month 12 recordings. Write three musical goals for year two. Candidates: harp harmonics, Oshio’s nail attack, tapping, a CGDGBD or DADGAD piece, or a longer dream excerpt.",
       "milestone": {
         "title": "Your year-one recording",
         "testSteps": [
           "Re-test the techniques: Pattern A at its Month 1 tempo, Pattern B, Travis picking, backbeat slap and harmonics. Log each tempo.",
-          "Record your set: secret base (your arrangement), 流れ行く雲 and 奇跡の山.",
+          "Record a set of three complete simple arrangements you can play comfortably. Secret base, 流れ行く雲 and a 奇跡の山 theme excerpt are optional goal-piece additions; a difficult whole piece is not required.",
           "Check which 3–5 simple complete arrangements you can still play now.",
           "Save a best take and repeat the musical programme on another day; write your next three goals."
         ],
@@ -2831,7 +2831,7 @@
       "id": "nagareyuku-kumo",
       "title": "流れ行く雲",
       "composer": "岸部眞明 (Masaaki Kishibe), from the album 奇跡の山 (2006)",
-      "tuning": "C G D G A D (retune strings 6, 5 and 2)",
+      "tuning": "C G D G A D (strings 6 → 1; lower strings 6, 5, 2 and 1 from standard)",
       "capo": "Learn at capo 5 (Kishibe has played it there); the original capo 9 is optional later",
       "tempo": "♩ = 63, slow and flowing",
       "why": "One of Kishibe’s simplest pieces: a slow, music-box-like tune that is easy to memorise. It is your first open-tuning piece.",
@@ -2877,7 +2877,7 @@
       "tuning": "Open D: D A D F♯ A D",
       "capo": "Capo 2",
       "tempo": "Slow and grand; learn it well below the recording",
-      "why": "Your year-one summit. It is rated intermediate, with stretchy shapes, a neck-bend “wave”, vibrato and muting, so each earlier month hands you one of its tools.",
+      "why": "A longer-term stretch goal. Its intermediate shapes, vibrato and muting build on earlier skills. A clear main-theme excerpt is a good year-one result; the full piece can wait.",
       "resourceIds": [
         "yama-score",
         "yama-lesson",
@@ -2902,15 +2902,15 @@
         {
           "id": "yama-3",
           "month": 11,
-          "title": "The stretch section",
+          "title": "Stretch: the wider shapes",
           "goal": "Learn the section with the stretchy shapes in 5–10 minute drills. Never force a reach.",
           "unlockedBy": "Partial barres and full F (Months 5–8)"
         },
         {
           "id": "yama-4",
           "month": 12,
-          "title": "Whole piece, slowly",
-          "goal": "Start to finish at a slow, steady tempo, with the neck-bend wave and muting. Stumbles are fine; keep the beat.",
+          "title": "Stretch: whole piece, slowly",
+          "goal": "Optional: play the whole piece at a slow, steady tempo with clear muting. Use ordinary fretted vibrato; leave the neck-bend effect out of this beginner plan.",
           "unlockedBy": "Landing-spot memorisation (Month 11)"
         }
       ]

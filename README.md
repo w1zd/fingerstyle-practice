@@ -15,9 +15,11 @@ A daily practice companion for a 12-month acoustic fingerstyle plan (Oshio & Sun
 
 - **Plan content** (`app/curriculum.json`, schema v2) was enriched from `reports/Fingerstyle guitar plan enrichment.md`. It adds practice rules, a health ladder, thumb-first and percussion-early technique, graded repertoire, ear training in scale degrees, number-system arranging and landing-spot memorisation. The Learn tab shows the rules and the health ladder. v3 adds three **goal pieces** (secret base, 流れ行く雲, 奇跡の山), split into stages, and a 20-piece **practice ladder** of classical, folk and pop pieces, each linked to its lesson or TAB. Ticked pieces and stages are saved in the profile's `pieces` field (`kind: 'pieces'` in the progress API).
 
+Goal-piece dates are suggestions. Later milestones accept simpler maintained repertoire, and the full intermediate goal pieces are optional stretches. Daily tasks appear first, with lesson links in an expandable panel and repertoire below.
+
 Key files: `app/dashboard.tsx` (UI), `app/api/progress/route.ts` (validated load/save), `db/schema.ts` + `drizzle/` (tables), `app/globals.css`.
 
-**Static version (GitHub Pages):** `npm run build:static` builds `static/main.tsx` into `dist-static/` with no server or sign-in. Progress is saved in the browser (`app/local-store.ts`), and the Progress tab has Export and Import for backups. Every push to `main` deploys it through `.github/workflows/pages.yml`.
+**Static version (GitHub Pages):** `npm run build:static` builds `static/main.tsx` into `dist-static/` with no server or sign-in. Progress is saved in the browser (`app/local-store.ts`), and the Progress tab has Export and Import for backups. Imports validate every record before asking to replace progress; damaged files leave the current data untouched. Exports also include an unsaved daily check-in. Use `npm run check:storage` for the in-memory persistence checks. Every push to `main` deploys it through `.github/workflows/pages.yml`.
 
 Local dev: `npm run dev`, then visit `/signin-with-chatgpt?return_to=/` for the mock user. Dates use the Pacific/Auckland timezone.
 
