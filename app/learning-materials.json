@@ -1,0 +1,2933 @@
+{
+  "tabs": [
+    {
+      "id": "pattern-a",
+      "title": "Pattern A: four notes",
+      "months": [
+        1,
+        12
+      ],
+      "task": "picking",
+      "rhythm": "4/4 · one note on each click",
+      "tempo": "Start at 40–50 BPM",
+      "note": "Hold the named chord. Let notes overlap naturally. Small F is xx3211; its top two strings share an index-finger barre.",
+      "variants": [
+        {
+          "label": "Em",
+          "sections": [
+            {
+              "label": "Em · one bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "6": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "C",
+          "sections": [
+            {
+              "label": "C · one bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "Am",
+          "sections": [
+            {
+              "label": "Am · one bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "G",
+          "sections": [
+            {
+              "label": "G · one bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "6": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "3"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "D",
+          "sections": [
+            {
+              "label": "D · one bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "4": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "3"
+                },
+                {
+                  "1": "2"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "Small F",
+          "sections": [
+            {
+              "label": "Small F · one bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "4": "3"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "1"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "C–Am–Em–Am loop",
+          "sections": [
+            {
+              "label": "Bar 1 · C",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            },
+            {
+              "label": "Bar 2 · Am",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            },
+            {
+              "label": "Bar 3 · Em",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "6": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            },
+            {
+              "label": "Bar 4 · Am",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "C–Am–Em–G loop",
+          "sections": [
+            {
+              "label": "Bar 1 · C",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            },
+            {
+              "label": "Bar 2 · Am",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            },
+            {
+              "label": "Bar 3 · Em",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "6": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            },
+            {
+              "label": "Bar 4 · G",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "6": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "3"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        }
+      ],
+      "tuning": "Standard · E A D G B E",
+      "credit": "Original practice example for this plan"
+    },
+    {
+      "id": "pinch",
+      "title": "Pinch on beat 1",
+      "months": [
+        1,
+        4,
+        5,
+        12
+      ],
+      "task": "picking",
+      "rhythm": "4/4 · bass and treble together, then three single notes",
+      "tempo": "Use your comfortable quarter-note tempo",
+      "note": "Start both notes together on beat 1. If the attacks split, slow down and prepare thumb and ring finger on the strings.",
+      "variants": [
+        {
+          "label": "Em",
+          "sections": [
+            {
+              "label": "Em · one bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p+a",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "6": "0",
+                  "1": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "C",
+          "sections": [
+            {
+              "label": "C · one bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p+a",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "3",
+                  "1": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "Am",
+          "sections": [
+            {
+              "label": "Am · one bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p+a",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "0",
+                  "1": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "G",
+          "sections": [
+            {
+              "label": "G · one bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p+a",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "6": "3",
+                  "1": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "3"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "D",
+          "sections": [
+            {
+              "label": "D · one bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p+a",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "4": "0",
+                  "1": "2"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "3"
+                },
+                {
+                  "1": "2"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "Small F",
+          "sections": [
+            {
+              "label": "Small F · one bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p+a",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "4": "3",
+                  "1": "1"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "1"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        }
+      ],
+      "tuning": "Standard · E A D G B E",
+      "credit": "Original practice example for this plan"
+    },
+    {
+      "id": "pattern-b",
+      "title": "Pattern B: eight notes",
+      "months": [
+        2,
+        12
+      ],
+      "task": "picking",
+      "rhythm": "4/4 · two notes per click",
+      "tempo": "Start at 40–50 BPM",
+      "note": "Say 1 & 2 & 3 & 4 &. The metronome clicks only on the numbered beats.",
+      "variants": [
+        {
+          "label": "Em",
+          "sections": [
+            {
+              "label": "Em · one bar",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a",
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "6": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "0"
+                },
+                {
+                  "6": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "C",
+          "sections": [
+            {
+              "label": "C · one bar",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a",
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                },
+                {
+                  "5": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "Am",
+          "sections": [
+            {
+              "label": "Am · one bar",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a",
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                },
+                {
+                  "5": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "G",
+          "sections": [
+            {
+              "label": "G · one bar",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a",
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "6": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "3"
+                },
+                {
+                  "6": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "3"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "D",
+          "sections": [
+            {
+              "label": "D · one bar",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a",
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "4": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "3"
+                },
+                {
+                  "1": "2"
+                },
+                {
+                  "4": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "3"
+                },
+                {
+                  "1": "2"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "Small F",
+          "sections": [
+            {
+              "label": "Small F · one bar",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a",
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "4": "3"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "1"
+                },
+                {
+                  "4": "3"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "1"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "C–Am–Em–Am loop",
+          "sections": [
+            {
+              "label": "Bar 1 · C",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a",
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                },
+                {
+                  "5": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            },
+            {
+              "label": "Bar 2 · Am",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a",
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                },
+                {
+                  "5": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            },
+            {
+              "label": "Bar 3 · Em",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a",
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "6": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "0"
+                },
+                {
+                  "6": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            },
+            {
+              "label": "Bar 4 · Am",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a",
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                },
+                {
+                  "5": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "C–Am–Em–G loop",
+          "sections": [
+            {
+              "label": "Bar 1 · C",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a",
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                },
+                {
+                  "5": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            },
+            {
+              "label": "Bar 2 · Am",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a",
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "5": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                },
+                {
+                  "5": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            },
+            {
+              "label": "Bar 3 · Em",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a",
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "6": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "0"
+                },
+                {
+                  "6": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            },
+            {
+              "label": "Bar 4 · G",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a",
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "6": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "3"
+                },
+                {
+                  "6": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "3"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        }
+      ],
+      "tuning": "Standard · E A D G B E",
+      "credit": "Original practice example for this plan"
+    },
+    {
+      "id": "chord-change",
+      "title": "C–Am: land on beat 1",
+      "months": [
+        1
+      ],
+      "task": "coordination",
+      "rhythm": "4/4 · one bass attack per bar",
+      "tempo": "Start at 40–50 BPM",
+      "note": "Let the bass ring while you prepare the next shape. After two bars, return to C. Add full picking only when these landings are steady.",
+      "variants": [
+        {
+          "label": "C → Am",
+          "sections": [
+            {
+              "label": "Two bars",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "—",
+                "—",
+                "—",
+                "p",
+                "—",
+                "—",
+                "—"
+              ],
+              "notes": [
+                {
+                  "5": "3"
+                },
+                {},
+                {},
+                {},
+                {
+                  "5": "0"
+                },
+                {},
+                {},
+                {}
+              ],
+              "barsAfter": [
+                3
+              ]
+            }
+          ]
+        }
+      ],
+      "tuning": "Standard · E A D G B E",
+      "credit": "Original practice example for this plan"
+    },
+    {
+      "id": "birthday-melody",
+      "title": "Happy Birthday: melody in C",
+      "months": [
+        1
+      ],
+      "task": "solo",
+      "rhythm": "3/4 · first two notes are pickup eighths on 3 &",
+      "tempo": "Slow enough to hum and play the phrase",
+      "note": "This is our own simple melody fingering, not the teacher’s full arrangement. Count 1 2 3. Each phrase starts with two pickup notes on 3 &; the next three notes take one beat each. Hold the last note of phrases 1 and 2 for beats 1–2, then start the next pickup on 3 &. In phrase 3, B and A fall on 1 and 2. Hold the final C for all three beats. In Week 1, learn only a few melody notes; add bass from the lesson when ready.",
+      "variants": [
+        {
+          "label": "Melody only",
+          "sections": [
+            {
+              "label": "Phrase 1",
+              "counts": [
+                "3",
+                "&",
+                "1",
+                "2",
+                "3",
+                "1"
+              ],
+              "fingers": [
+                "i",
+                "i",
+                "i",
+                "i",
+                "m",
+                "m"
+              ],
+              "notes": [
+                {
+                  "3": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "2": "0"
+                }
+              ],
+              "barsAfter": [
+                1,
+                4
+              ]
+            },
+            {
+              "label": "Phrase 2",
+              "counts": [
+                "3",
+                "&",
+                "1",
+                "2",
+                "3",
+                "1"
+              ],
+              "fingers": [
+                "i",
+                "i",
+                "i",
+                "i",
+                "m",
+                "m"
+              ],
+              "notes": [
+                {
+                  "3": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "3"
+                },
+                {
+                  "2": "1"
+                }
+              ],
+              "barsAfter": [
+                1,
+                4
+              ]
+            },
+            {
+              "label": "Phrase 3",
+              "counts": [
+                "3",
+                "&",
+                "1",
+                "2",
+                "3",
+                "1",
+                "2"
+              ],
+              "fingers": [
+                "i",
+                "i",
+                "a",
+                "a",
+                "m",
+                "m",
+                "i"
+              ],
+              "notes": [
+                {
+                  "3": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "1": "3"
+                },
+                {
+                  "1": "0"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "3": "2"
+                }
+              ],
+              "barsAfter": [
+                1,
+                4
+              ]
+            },
+            {
+              "label": "Phrase 4",
+              "counts": [
+                "3",
+                "&",
+                "1",
+                "2",
+                "3",
+                "1"
+              ],
+              "fingers": [
+                "a",
+                "a",
+                "a",
+                "m",
+                "m",
+                "m"
+              ],
+              "notes": [
+                {
+                  "1": "1"
+                },
+                {
+                  "1": "1"
+                },
+                {
+                  "1": "0"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "2": "3"
+                },
+                {
+                  "2": "1"
+                }
+              ],
+              "barsAfter": [
+                1,
+                4
+              ]
+            }
+          ]
+        }
+      ],
+      "tuning": "Standard · E A D G B E",
+      "credit": "Original practice example for this plan"
+    },
+    {
+      "id": "thumb-alone",
+      "title": "Alternating bass: thumb only",
+      "months": [
+        2,
+        4
+      ],
+      "task": "picking",
+      "rhythm": "4/4 · four equal thumb attacks",
+      "tempo": "Start at 40–50 BPM",
+      "note": "Hold the chord and keep fingers still. The C second bass note is E, so this is a root/third exercise. Keep D thumb-only until you learn different treble routing.",
+      "variants": [
+        {
+          "label": "C",
+          "sections": [
+            {
+              "label": "C bass",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "p",
+                "p",
+                "p"
+              ],
+              "notes": [
+                {
+                  "5": "3"
+                },
+                {
+                  "4": "2"
+                },
+                {
+                  "5": "3"
+                },
+                {
+                  "4": "2"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "Am",
+          "sections": [
+            {
+              "label": "Am bass",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "p",
+                "p",
+                "p"
+              ],
+              "notes": [
+                {
+                  "5": "0"
+                },
+                {
+                  "4": "2"
+                },
+                {
+                  "5": "0"
+                },
+                {
+                  "4": "2"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "Em",
+          "sections": [
+            {
+              "label": "Em bass",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "p",
+                "p",
+                "p"
+              ],
+              "notes": [
+                {
+                  "6": "0"
+                },
+                {
+                  "5": "2"
+                },
+                {
+                  "6": "0"
+                },
+                {
+                  "5": "2"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        },
+        {
+          "label": "D",
+          "sections": [
+            {
+              "label": "D bass",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "p",
+                "p",
+                "p"
+              ],
+              "notes": [
+                {
+                  "4": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "4": "0"
+                },
+                {
+                  "3": "2"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        }
+      ],
+      "tuning": "Standard · E A D G B E",
+      "credit": "Original practice example for this plan"
+    },
+    {
+      "id": "monotonic",
+      "title": "A steady root under a small melody",
+      "months": [
+        3
+      ],
+      "task": "picking",
+      "rhythm": "4/4 · bass eighth notes throughout",
+      "tempo": "Start slower than 60 BPM if needed",
+      "note": "An original Am drill: thumb plays every subdivision, while treble notes occur on the numbered beats. Keep melody louder than bass. First play bass alone.",
+      "variants": [
+        {
+          "label": "Am",
+          "sections": [
+            {
+              "label": "One bar",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p+a",
+                "p",
+                "p+m",
+                "p",
+                "p+i",
+                "p",
+                "p+m",
+                "p"
+              ],
+              "notes": [
+                {
+                  "5": "0",
+                  "1": "0"
+                },
+                {
+                  "5": "0"
+                },
+                {
+                  "5": "0",
+                  "2": "1"
+                },
+                {
+                  "5": "0"
+                },
+                {
+                  "5": "0",
+                  "3": "2"
+                },
+                {
+                  "5": "0"
+                },
+                {
+                  "5": "0",
+                  "2": "1"
+                },
+                {
+                  "5": "0"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        }
+      ],
+      "tuning": "Standard · E A D G B E",
+      "credit": "Original practice example for this plan"
+    },
+    {
+      "id": "travis",
+      "title": "Travis texture: p i p m",
+      "months": [
+        4,
+        5,
+        12
+      ],
+      "task": "picking",
+      "rhythm": "4/4 · thumb on beats; fingers on &",
+      "tempo": "Start at 40–50 BPM; steady before faster",
+      "note": "Hold C. Beat 1 adds a pinch; all later bass attacks remain on the beat. Learn thumb alone, then add one treble attack at a time.",
+      "variants": [
+        {
+          "label": "C",
+          "sections": [
+            {
+              "label": "One bar",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p+a",
+                "i",
+                "p",
+                "m",
+                "p",
+                "i",
+                "p",
+                "m"
+              ],
+              "notes": [
+                {
+                  "5": "3",
+                  "1": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "4": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "5": "3"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "4": "2"
+                },
+                {
+                  "2": "1"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        }
+      ],
+      "tuning": "Standard · E A D G B E",
+      "credit": "Original practice example for this plan"
+    },
+    {
+      "id": "melody-bass",
+      "title": "A four-note melody with sparse bass",
+      "months": [
+        3,
+        5,
+        8,
+        10,
+        11,
+        12
+      ],
+      "task": "solo",
+      "rhythm": "4/4 · one root bass on beat 1",
+      "tempo": "Your comfortable quarter-note tempo",
+      "note": "Original mini-etude in C. Learn the top line E–C–B–G alone. Then add only the low C on beat 1. Keep the top note audible; this is a layering example, not a published song arrangement.",
+      "variants": [
+        {
+          "label": "C",
+          "sections": [
+            {
+              "label": "One bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p+a",
+                "m",
+                "m",
+                "i"
+              ],
+              "notes": [
+                {
+                  "5": "3",
+                  "1": "0"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "3": "0"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        }
+      ],
+      "tuning": "Standard · E A D G B E",
+      "credit": "Original practice example for this plan"
+    },
+    {
+      "id": "backbeat",
+      "title": "Bass on 1/3, slap on 2/4",
+      "months": [
+        6,
+        8,
+        9,
+        12
+      ],
+      "task": "picking",
+      "rhythm": "4/4 · x marks a light muted attack",
+      "tempo": "Start below 70 BPM if needed",
+      "note": "Hold C. Pluck bass notes normally. On x, make a light percussive contact across the indicated strings; no fret is pressed for the x itself. Practise the movement slowly with the teacher’s video.",
+      "variants": [
+        {
+          "label": "C",
+          "sections": [
+            {
+              "label": "One bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "slap",
+                "p",
+                "slap"
+              ],
+              "notes": [
+                {
+                  "5": "3"
+                },
+                {
+                  "5": "x",
+                  "4": "x",
+                  "3": "x"
+                },
+                {
+                  "5": "3"
+                },
+                {
+                  "5": "x",
+                  "4": "x",
+                  "3": "x"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        }
+      ],
+      "tuning": "Standard · E A D G B E",
+      "credit": "Original practice example for this plan"
+    },
+    {
+      "id": "harmonics",
+      "title": "Natural harmonics: 12, 7, 5",
+      "months": [
+        6,
+        7,
+        12
+      ],
+      "task": "picking",
+      "rhythm": "Free time · pause between chimes",
+      "tempo": "No speed target",
+      "note": "Angle brackets mean a light touch directly above the fret wire, not a fretted note. Pluck, then lift the touching finger. Start with fret 12; use the video for the hand position.",
+      "variants": [
+        {
+          "label": "String 1",
+          "sections": [
+            {
+              "label": "Three chimes",
+              "counts": [
+                "touch",
+                "touch",
+                "touch"
+              ],
+              "fingers": [
+                "a",
+                "a",
+                "a"
+              ],
+              "notes": [
+                {
+                  "1": "<12>"
+                },
+                {
+                  "1": "<7>"
+                },
+                {
+                  "1": "<5>"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        }
+      ],
+      "tuning": "Standard · E A D G B E",
+      "credit": "Original practice example for this plan"
+    },
+    {
+      "id": "hammer-on",
+      "title": "One hammer-on over alternating bass",
+      "months": [
+        7
+      ],
+      "task": "picking",
+      "rhythm": "4/4 · hammer on the first &",
+      "tempo": "Start slowly",
+      "note": "Original Am exercise. Pluck open string 3 on beat 1 with the bass. On the following &, hammer to fret 2 without another picking-hand attack (h). Continue the bass on beats 2, 3 and 4.",
+      "variants": [
+        {
+          "label": "Am",
+          "sections": [
+            {
+              "label": "One bar",
+              "counts": [
+                "1",
+                "&",
+                "2",
+                "&",
+                "3",
+                "&",
+                "4",
+                "&"
+              ],
+              "fingers": [
+                "p+i",
+                "h",
+                "p",
+                "m",
+                "p",
+                "i",
+                "p",
+                "m"
+              ],
+              "notes": [
+                {
+                  "5": "0",
+                  "3": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "4": "2"
+                },
+                {
+                  "2": "1"
+                },
+                {
+                  "5": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "4": "2"
+                },
+                {
+                  "2": "1"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        }
+      ],
+      "tuning": "Standard · E A D G B E",
+      "credit": "Original practice example for this plan"
+    },
+    {
+      "id": "drop-d",
+      "title": "Drop-D D-chord arpeggio",
+      "months": [
+        9
+      ],
+      "task": "picking",
+      "rhythm": "4/4 · one note per click",
+      "tempo": "Start at 40–50 BPM",
+      "note": "Lower only string 6 from E to D with a tuner. Hold xx0232 on strings 4–1. In this example the thumb uses the newly tuned open string 6. Retune before playing standard-tuning examples.",
+      "variants": [
+        {
+          "label": "D",
+          "sections": [
+            {
+              "label": "One bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "6": "0"
+                },
+                {
+                  "3": "2"
+                },
+                {
+                  "2": "3"
+                },
+                {
+                  "1": "2"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        }
+      ],
+      "tuning": "Drop D · D A D G B E",
+      "credit": "Original practice example for this plan"
+    },
+    {
+      "id": "open-d",
+      "title": "Open-D arpeggio",
+      "months": [
+        10
+      ],
+      "task": "picking",
+      "rhythm": "4/4 · one note per click",
+      "tempo": "Start at 40–50 BPM",
+      "note": "Use a tuner for all six strings; the notes are shown thickest to thinnest. This original open-string exercise explores the tuning. It is not the 奇跡の山 score. Return to standard tuning for your standard-tuning studies.",
+      "variants": [
+        {
+          "label": "Open D",
+          "sections": [
+            {
+              "label": "One bar",
+              "counts": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "fingers": [
+                "p",
+                "i",
+                "m",
+                "a"
+              ],
+              "notes": [
+                {
+                  "6": "0"
+                },
+                {
+                  "3": "0"
+                },
+                {
+                  "2": "0"
+                },
+                {
+                  "1": "0"
+                }
+              ],
+              "barsAfter": []
+            }
+          ]
+        }
+      ],
+      "tuning": "Open D · D A D F♯ A D",
+      "credit": "Original practice example for this plan"
+    }
+  ],
+  "videos": [
+    {
+      "id": "2WB8otOcz78",
+      "title": "Finger Style For Beginners. Start Here.",
+      "teacher": "JustinGuitar",
+      "months": [
+        1
+      ],
+      "use": "Watch the finger movements and relaxed hand position. This video demonstrates 6/8; our Pattern A drill is 4/4, so use the TAB count in this plan.",
+      "sourceUrl": "https://www.justinguitar.com/guitar-lessons/introduction-to-fingerstyle-guitar-bg-1105",
+      "kind": "Lesson",
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "3jUErfRAvC4",
+      "title": "Guitar Lesson:  Learn the Basics of Travis Picking",
+      "teacher": "Acoustic Guitar Magazine",
+      "months": [
+        2,
+        4,
+        5,
+        12
+      ],
+      "use": "Begin with the thumb-only section. Add the treble part only when your current month calls for it.",
+      "sourceUrl": "https://acousticguitar.com/lesson-learn-the-nuts-and-bolts-of-travis-picking/",
+      "kind": "Lesson",
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "v-IIWRqnT0c",
+      "title": "Natural Harmonic Series (Guitar Lesson TE-016) How to Play",
+      "teacher": "JustinGuitar",
+      "months": [
+        6,
+        7,
+        12
+      ],
+      "use": "Watch where the fretting finger lightly touches the wire, then try the fret-12 chime in our TAB.",
+      "sourceUrl": "https://www.justinguitar.com/guitar-lessons/natural-harmonic-series-te-502",
+      "kind": "Lesson",
+      "verifiedOn": "2026-10-01"
+    }
+  ],
+  "songs": [
+    {
+      "id": "happy-birthday",
+      "title": "Happy Birthday",
+      "month": 1,
+      "role": "core",
+      "sourceUrl": "https://www.justinguitar.com/guitar-lessons/happy-birthday-finger-style-bg-1106",
+      "scoreUrl": "https://www.justinguitar.com/guitar-lessons/happy-birthday-finger-style-bg-1106",
+      "scoreKind": "Teacher’s TAB / score page",
+      "scoreAccess": "The melody TAB is included in this plan. Open Justin’s lesson for his fuller arrangement and TAB/Guitar Pro resources.",
+      "video": {
+        "id": "P2Y4n9H55wI",
+        "title": "Play Happy Birthday On The Guitar For Beginners",
+        "teacher": "JustinGuitar",
+        "months": [
+          1
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://www.justinguitar.com/guitar-lessons/happy-birthday-finger-style-bg-1106",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "carulli-arpeges",
+      "title": "Arpèges de trois notes",
+      "month": 1,
+      "role": "bonus",
+      "sourceUrl": "https://www.thisisclassicalguitar.com/arpeges-de-trois-notes-carulli-free-pdf/",
+      "scoreUrl": "https://www.thisisclassicalguitar.com/wp-content/uploads/2020/03/Carulli-Arpeges-de-Trois-Notes-Op241.pdf",
+      "scoreKind": "Score PDF · standard notation",
+      "scoreAccess": "Free PDF linked on the teacher’s lesson page.",
+      "video": {
+        "id": "Mwd1LKK5DS4",
+        "title": "Free PDF - Arpèges de Trois Notes by Carulli and Beginner Lesson for Classical Guitar",
+        "teacher": "This is Classical Guitar",
+        "months": [
+          1
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://www.thisisclassicalguitar.com/arpeges-de-trois-notes-carulli-free-pdf/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "amazing-grace",
+      "title": "Amazing Grace (easy)",
+      "month": 2,
+      "role": "core",
+      "sourceUrl": "https://sixstringfingerpicking.com/songs/amazing-grace-guitar-lesson-easy/",
+      "scoreUrl": "https://sixstringfingerpicking.com/wp-content/uploads/2025/04/Amazing-Grace-Level-1.pdf",
+      "scoreKind": "TAB PDF",
+      "scoreAccess": "Free PDF linked on the teacher’s lesson page.",
+      "video": {
+        "id": "AGyGyAkf7c8",
+        "title": "How to Play Amazing Grace - Beginner-Friendly Fingerstyle Guitar Lesson",
+        "teacher": "Six String Fingerpicking",
+        "months": [
+          2
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://sixstringfingerpicking.com/songs/amazing-grace-guitar-lesson-easy/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "silent-night",
+      "title": "Silent Night (beginner)",
+      "month": 2,
+      "role": "bonus",
+      "sourceUrl": "https://sixstringfingerpicking.com/songs/silent-night-beginner-guitar-lesson/",
+      "scoreUrl": "https://sixstringfingerpicking.com/wp-content/uploads/2025/12/Silent-Night.pdf",
+      "scoreKind": "TAB PDF",
+      "scoreAccess": "Free PDF linked on the teacher’s lesson page.",
+      "video": {
+        "id": "U4K85ip81d8",
+        "title": "Silent Night - Beginner Level Fingerstyle Guitar Lesson",
+        "teacher": "Six String Fingerpicking",
+        "months": [
+          2
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://sixstringfingerpicking.com/songs/silent-night-beginner-guitar-lesson/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "greensleeves",
+      "title": "Greensleeves",
+      "month": 3,
+      "role": "core",
+      "sourceUrl": "https://www.thisisclassicalguitar.com/lesson-easy-greensleeves-classical-guitar/",
+      "scoreUrl": "https://www.thisisclassicalguitar.com/lesson-easy-greensleeves-classical-guitar/",
+      "scoreKind": "Teacher’s TAB / score page",
+      "scoreAccess": "Teacher’s score page; some editions are paid or use standard notation.",
+      "video": {
+        "id": "faqlT80if_Y",
+        "title": "Lesson: Greensleeves (Easy Anonymous Lute Arrangement) for Classical Guitar",
+        "teacher": "This is Classical Guitar",
+        "months": [
+          3
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://www.thisisclassicalguitar.com/lesson-easy-greensleeves-classical-guitar/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "giuliani-andantino",
+      "title": "Andantino Op. 50 No. 1",
+      "month": 3,
+      "role": "bonus",
+      "sourceUrl": "https://www.thisisclassicalguitar.com/lesson-andantino-op-50-no-1-giuliani-easy/",
+      "scoreUrl": "https://www.thisisclassicalguitar.com/lesson-andantino-op-50-no-1-giuliani-easy/",
+      "scoreKind": "Teacher’s TAB / score page",
+      "scoreAccess": "Teacher’s score page; some editions are paid or use standard notation.",
+      "video": {
+        "id": "Qm_plk6MolI",
+        "title": "Lesson: Andantino, Op.50, No.1 by Giuliani (Easy Classical Guitar Vol.1)",
+        "teacher": "This is Classical Guitar",
+        "months": [
+          3
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://www.thisisclassicalguitar.com/lesson-andantino-op-50-no-1-giuliani-easy/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "freight-train",
+      "title": "Freight Train (easy)",
+      "month": 4,
+      "role": "core",
+      "sourceUrl": "https://sixstringfingerpicking.com/songs/freighttrain/",
+      "scoreUrl": "https://sixstringfingerpicking.com/songs/freighttrain/",
+      "scoreKind": "Teacher’s TAB / score page",
+      "scoreAccess": "Open the teacher’s TAB section; access may require signup or purchase.",
+      "video": {
+        "id": "STbUlg-tgTs",
+        "title": "Freight Train by Elizabeth Cotten (Easy Fingerstyle Guitar Lesson)",
+        "teacher": "Six String Fingerpicking",
+        "months": [
+          4
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://sixstringfingerpicking.com/songs/freighttrain/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "carulli-waltz",
+      "title": "Waltz Op. 121 No. 1",
+      "month": 4,
+      "role": "bonus",
+      "sourceUrl": "https://www.thisisclassicalguitar.com/lesson-waltz-op-121-no-1-carulli-easy/",
+      "scoreUrl": "https://www.thisisclassicalguitar.com/lesson-waltz-op-121-no-1-carulli-easy/",
+      "scoreKind": "Teacher’s TAB / score page",
+      "scoreAccess": "Teacher’s score page; some editions are paid or use standard notation.",
+      "video": {
+        "id": "u5jbNodBoH8",
+        "title": "Lesson: Waltz Op.121, No.1 by Carulli - Easy Classical Guitar",
+        "teacher": "This is Classical Guitar",
+        "months": [
+          4
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://www.thisisclassicalguitar.com/lesson-waltz-op-121-no-1-carulli-easy/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "scarborough-fair",
+      "title": "Scarborough Fair (arrangement)",
+      "month": 5,
+      "role": "core",
+      "sourceUrl": "https://sixstringfingerpicking.com/songs/scarborough-fair-arrangement-guitar-lesson/",
+      "scoreUrl": "https://sixstringfingerpicking.com/wp-content/uploads/2023/11/Scarborough-Fair.pdf",
+      "scoreKind": "TAB PDF",
+      "scoreAccess": "Free PDF linked on the teacher’s lesson page.",
+      "video": {
+        "id": "jAZDPnsnMKs",
+        "title": "How to Play Scarborough Fair - Beginner Fingerstyle Guitar Tutorial",
+        "teacher": "Six String Fingerpicking",
+        "months": [
+          5
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://sixstringfingerpicking.com/songs/scarborough-fair-arrangement-guitar-lesson/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "fur-elise",
+      "title": "Für Elise",
+      "month": 5,
+      "role": "bonus",
+      "sourceUrl": "https://sixstringfingerpicking.com/songs/fur-elise-guitar-lesson/",
+      "scoreUrl": "https://sixstringfingerpicking.com/wp-content/uploads/2024/03/Fur-Elise.pdf",
+      "scoreKind": "TAB PDF",
+      "scoreAccess": "Free PDF linked on the teacher’s lesson page.",
+      "video": {
+        "id": "vQFONPmQNxA",
+        "title": "Für Elise (Beethoven) - Easy Fingerstyle Guitar Lesson",
+        "teacher": "Six String Fingerpicking",
+        "months": [
+          5
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://sixstringfingerpicking.com/songs/fur-elise-guitar-lesson/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "rising-sun",
+      "title": "House of the Rising Sun (easy)",
+      "month": 6,
+      "role": "core",
+      "sourceUrl": "https://sixstringfingerpicking.com/songs/houseoftherisingsun/",
+      "scoreUrl": "https://sixstringfingerpicking.com/songs/houseoftherisingsun/",
+      "scoreKind": "Teacher’s TAB / score page",
+      "scoreAccess": "Open the teacher’s TAB section; access may require signup or purchase.",
+      "video": {
+        "id": "eAZ4UE9s5og",
+        "title": "House of the Rising Sun (Fingerstyle Guitar Lesson)",
+        "teacher": "Six String Fingerpicking",
+        "months": [
+          6
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://sixstringfingerpicking.com/songs/houseoftherisingsun/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "wonderful-world",
+      "title": "What a Wonderful World",
+      "month": 6,
+      "role": "bonus",
+      "sourceUrl": "https://sixstringfingerpicking.com/songs/whatawonderfulworld/",
+      "scoreUrl": "https://sixstringfingerpicking.com/songs/whatawonderfulworld/",
+      "scoreKind": "Teacher’s TAB / score page",
+      "scoreAccess": "Open the teacher’s TAB section; access may require signup or purchase.",
+      "video": {
+        "id": "Dy0At3ss-oY",
+        "title": "How to Play What A Wonderful World by Louis Armstrong - Fingerstyle Guitar Lesson",
+        "teacher": "Six String Fingerpicking",
+        "months": [
+          6
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://sixstringfingerpicking.com/songs/whatawonderfulworld/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "spanish-romance",
+      "title": "Spanish Romance (part A)",
+      "month": 7,
+      "role": "core",
+      "sourceUrl": "https://sixstringfingerpicking.com/songs/spanish-romance-guitar-lesson/",
+      "scoreUrl": "https://sixstringfingerpicking.com/wp-content/uploads/2022/09/Spanish-Romance-.pdf",
+      "scoreKind": "TAB PDF",
+      "scoreAccess": "Free PDF linked on the teacher’s lesson page.",
+      "video": {
+        "id": "ftjaBJyNXwc",
+        "title": "Spanish Romance - In-Depth Guitar Lesson with TABs",
+        "teacher": "Six String Fingerpicking",
+        "months": [
+          7
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://sixstringfingerpicking.com/songs/spanish-romance-guitar-lesson/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "ash-grove",
+      "title": "The Ash Grove",
+      "month": 7,
+      "role": "bonus",
+      "sourceUrl": "https://www.thisisclassicalguitar.com/the-ash-grove-for-easy-guitar/",
+      "scoreUrl": "https://www.thisisclassicalguitar.com/the-ash-grove-for-easy-guitar/",
+      "scoreKind": "Teacher’s TAB / score page",
+      "scoreAccess": "Teacher’s score page; some editions are paid or use standard notation.",
+      "video": {
+        "id": "QZ65Fgcgvrw",
+        "title": "The Ash Grove (Llwyn Onn) for Easy Guitar - Lesson & PDF",
+        "teacher": "This is Classical Guitar",
+        "months": [
+          7
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://www.thisisclassicalguitar.com/the-ash-grove-for-easy-guitar/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "moon-river",
+      "title": "Moon River",
+      "month": 8,
+      "role": "core",
+      "sourceUrl": "https://sixstringfingerpicking.com/songs/moon-river-guitar-lesson/",
+      "scoreUrl": "https://sixstringfingerpicking.com/songs/moon-river-guitar-lesson/",
+      "scoreKind": "Teacher’s TAB / score page",
+      "scoreAccess": "Open the teacher’s TAB section; access may require signup or purchase.",
+      "video": {
+        "id": "OKFy1EDBI40",
+        "title": "Moon River - Easy Fingerstyle Guitar Lesson (Audrey Hepburn)",
+        "teacher": "Six String Fingerpicking",
+        "months": [
+          8
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://sixstringfingerpicking.com/songs/moon-river-guitar-lesson/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "danny-boy",
+      "title": "Danny Boy",
+      "month": 8,
+      "role": "bonus",
+      "sourceUrl": "https://sixstringfingerpicking.com/songs/danny-boy-guitar-lesson/",
+      "scoreUrl": "https://sixstringfingerpicking.com/wp-content/uploads/2024/08/Danny-Boy-2.pdf",
+      "scoreKind": "TAB PDF",
+      "scoreAccess": "Free PDF linked on the teacher’s lesson page.",
+      "video": {
+        "id": "zQmqYlyOPVc",
+        "title": "How to Play Danny Boy - Fingerstyle Guitar Lesson (Beginner Level)",
+        "teacher": "Six String Fingerpicking",
+        "months": [
+          8
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://sixstringfingerpicking.com/songs/danny-boy-guitar-lesson/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "lagrima",
+      "title": "Lágrima",
+      "month": 9,
+      "role": "core",
+      "sourceUrl": "https://sixstringfingerpicking.com/songs/lagrima-guitar-lesson/",
+      "scoreUrl": "https://sixstringfingerpicking.com/wp-content/uploads/2024/10/Lagrima.pdf",
+      "scoreKind": "TAB PDF",
+      "scoreAccess": "Free PDF linked on the teacher’s lesson page.",
+      "video": {
+        "id": "kpa-B6sONtY",
+        "title": "Lágrima by Francisco Tárrega - In-Depth Guitar Lesson with TABs",
+        "teacher": "Six String Fingerpicking",
+        "months": [
+          9
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://sixstringfingerpicking.com/songs/lagrima-guitar-lesson/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "dust-in-the-wind",
+      "title": "Dust in the Wind (intro and verse)",
+      "month": 9,
+      "role": "bonus",
+      "sourceUrl": "https://sixstringfingerpicking.com/songs/dustinthewind/",
+      "scoreUrl": "https://sixstringfingerpicking.com/songs/dustinthewind/",
+      "scoreKind": "Teacher’s TAB / score page",
+      "scoreAccess": "Open the teacher’s TAB section; access may require signup or purchase.",
+      "video": {
+        "id": "vmVouc02Yu8",
+        "title": "Dust in the Wind by Kansas - Full Song Guitar Tutorial",
+        "teacher": "Six String Fingerpicking",
+        "months": [
+          9
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://sixstringfingerpicking.com/songs/dustinthewind/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "sor-andante",
+      "title": "Andante Op. 35 No. 1",
+      "month": 10,
+      "role": "bonus",
+      "sourceUrl": "https://www.thisisclassicalguitar.com/lesson-andante-op-35-no-1-sor-easy/",
+      "scoreUrl": "https://www.thisisclassicalguitar.com/lesson-andante-op-35-no-1-sor-easy/",
+      "scoreKind": "Teacher’s TAB / score page",
+      "scoreAccess": "Teacher’s score page; some editions are paid or use standard notation.",
+      "video": {
+        "id": "9BG_JuTxzsk",
+        "title": "Lesson: Sor Study Op.35, No.1, Andante by Sor for Classical Guitar",
+        "teacher": "This is Classical Guitar",
+        "months": [
+          10
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://www.thisisclassicalguitar.com/lesson-andante-op-35-no-1-sor-easy/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "skye-boat",
+      "title": "The Skye Boat Song",
+      "month": 10,
+      "role": "bonus",
+      "sourceUrl": "https://www.thisisclassicalguitar.com/the-skye-boat-song-easy-guitar/",
+      "scoreUrl": "https://www.thisisclassicalguitar.com/the-skye-boat-song-easy-guitar/",
+      "scoreKind": "Teacher’s TAB / score page",
+      "scoreAccess": "Teacher’s score page; some editions are paid or use standard notation.",
+      "video": {
+        "id": "V-rB48mLu8o",
+        "title": "The Skye Boat Song (Outlander Theme) for Easy Guitar (Lesson & PDF)",
+        "teacher": "This is Classical Guitar",
+        "months": [
+          10
+        ],
+        "use": "Watch one short phrase, pause, then practise it slowly. Use the teacher’s matching score for this arrangement.",
+        "sourceUrl": "https://www.thisisclassicalguitar.com/the-skye-boat-song-easy-guitar/",
+        "kind": "Lesson",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "kiseki-no-yama",
+      "title": "奇跡の山",
+      "month": 9,
+      "role": "goal",
+      "sourceUrl": "https://masaaki-kishibe.com/shop/",
+      "scoreUrl": "https://www.mymusic5.com/ja/kishibemasaaki/33106",
+      "scoreKind": "Published TAB",
+      "scoreAccess": "Paid score. Use the publisher’s preview before choosing an edition.",
+      "video": {
+        "id": "0RY7N8HxCuA",
+        "title": "岸部眞明 - 奇跡の山 ドルフィンギターズ恵比寿店 アンプラグドライヴ 2018.10.26",
+        "teacher": "Dolphin Guitars",
+        "months": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "use": "Listening reference: hear the melody and phrasing. This is a performance, not a step-by-step lesson.",
+        "sourceUrl": "https://www.youtube.com/watch?v=0RY7N8HxCuA",
+        "kind": "Performance",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "nagareyuku-kumo",
+      "title": "流れ行く雲",
+      "month": 7,
+      "role": "goal",
+      "sourceUrl": "https://masaaki-kishibe.com/shop/",
+      "scoreUrl": "https://www.mymusic5.com/ja/video/33108",
+      "scoreKind": "Published TAB & video page",
+      "scoreAccess": "Publisher’s score/preview page; the full TAB may be paid.",
+      "video": {
+        "id": "FsZ1WpW4hh8",
+        "title": "流れ行く雲（Drifting Clouds)",
+        "teacher": "Masaaki Kishibe Guitar Channel",
+        "months": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "use": "Official performance reference. Listen for the melody and relaxed pulse; use the published score for exact frets, tuning and capo. This is not a slow tutorial.",
+        "sourceUrl": "https://masaaki-kishibe.com/",
+        "kind": "Performance",
+        "verifiedOn": "2026-10-01"
+      },
+      "verifiedOn": "2026-10-01"
+    },
+    {
+      "id": "secret-base",
+      "title": "secret base ～君がくれたもの～",
+      "month": 4,
+      "role": "goal",
+      "sourceUrl": "https://store.piascore.com/scores/42184",
+      "scoreUrl": "https://store.piascore.com/scores/42184",
+      "scoreKind": "Published solo TAB / score",
+      "scoreAccess": "Paid intermediate arrangement. Build your own simple version first; compare tuning, key and capo before buying.",
+      "video": null,
+      "verifiedOn": "2026-10-01"
+    }
+  ],
+  "legend": "Top line is string 1 (thin high E); bottom line is string 6 (thick low E). Numbers are frets, 0 is open, and notes in the same column sound together. A dash means no new attack, not automatically a rest. p = thumb, i = index, m = middle, a = ring; x = muted percussion, h = hammer-on, and <12> = a natural harmonic. Columns show attack order; use the Count row and rhythm instructions for timing."
+}

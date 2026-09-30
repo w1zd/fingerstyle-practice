@@ -17,6 +17,8 @@ A daily practice companion for a 12-month acoustic fingerstyle plan (Oshio & Sun
 
 Goal-piece dates are suggestions. Later milestones accept simpler maintained repertoire, and the full intermediate goal pieces are optional stretches. Daily tasks appear first, with lesson links in an expandable panel and repertoire below.
 
+**TAB and videos:** `app/learning-materials.json` supplies 14 original practice examples (including a melody-only Happy Birthday), chord variants, counts, picking fingers, verified teacher videos, and TAB/score links for every repertoire piece. `app/lesson-materials.tsx` shows these beside the tasks, in the repertoire and in a Learn-tab library. Videos and remote PDF previews load only after a click; publisher links remain available when an embedded preview is unavailable. Source pages and verification dates stay with each resource.
+
 Key files: `app/dashboard.tsx` (UI), `app/api/progress/route.ts` (validated load/save), `db/schema.ts` + `drizzle/` (tables), `app/globals.css`.
 
 **Static version (GitHub Pages):** `npm run build:static` builds `static/main.tsx` into `dist-static/` with no server or sign-in. Progress is saved in the browser (`app/local-store.ts`), and the Progress tab has Export and Import for backups. Imports validate every record before asking to replace progress; damaged files leave the current data untouched. Exports also include an unsaved daily check-in. Use `npm run check:storage` for the in-memory persistence checks. Every push to `main` deploys it through `.github/workflows/pages.yml`.

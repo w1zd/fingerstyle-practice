@@ -399,6 +399,13 @@
       "url": "https://masaaki-kishibe.com/shop/",
       "use": "CDs and official TAB books, including pieces from the 奇跡の山 album.",
       "access": "Paid (Japanese site)."
+    },
+    {
+      "id": "birthday",
+      "title": "Happy Birthday: video lesson and TAB",
+      "url": "https://www.justinguitar.com/guitar-lessons/happy-birthday-finger-style-bg-1106",
+      "use": "Watch one phrase, then use the lesson’s TAB resources. The simple melody TAB inside this plan is a separate beginner version.",
+      "access": "Free lesson; see the teacher’s TAB / Learn More section for downloads."
     }
   ],
   "exercises": [
@@ -1729,7 +1736,8 @@
       "resourceIds": [
         "before",
         "basics",
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -1751,7 +1759,8 @@
       "checkpoint": "Three recognisable melody loops at a relaxed tempo.",
       "resourceIds": [
         "basics",
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -1773,7 +1782,8 @@
       "checkpoint": "One melody phrase with clear notes and a surviving count.",
       "resourceIds": [
         "basics",
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -1794,7 +1804,8 @@
       "ear": "Hum the two phrases, noticing the join’s rhythm.",
       "checkpoint": "Both phrases connect at a slow steady tempo.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -1816,7 +1827,8 @@
       "checkpoint": "Four bass-only bars in time, plus connected melody phrases.",
       "resourceIds": [
         "basics",
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -1837,7 +1849,8 @@
       "ear": "Listen once: note rhythm and note clarity.",
       "checkpoint": "Save the clip and log one audible win and one repair.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -1858,7 +1871,8 @@
       "ear": "Listen/log for 3 minutes. Compare a small moment with Day 1.",
       "checkpoint": "Name one improvement; you have a recognisable melody phrase.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a"
@@ -1878,7 +1892,8 @@
       "checkpoint": "G has clean notes; one new melody phrase learned.",
       "resourceIds": [
         "basics",
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -1900,7 +1915,8 @@
       "checkpoint": "C–G begins to land in time; melody bottleneck is identified.",
       "resourceIds": [
         "basics",
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -1922,7 +1938,8 @@
       "checkpoint": "A full melody-only take at your current tempo.",
       "resourceIds": [
         "basics",
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -1943,7 +1960,8 @@
       "ear": "Name the chord supporting each bass note you learn.",
       "checkpoint": "First phrase bass-only stays in the tune’s rhythm.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -1964,7 +1982,8 @@
       "ear": "Hear bass separately in the lesson, then hum melody over your tapped count.",
       "checkpoint": "Melody and bass each work separately.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -1985,7 +2004,8 @@
       "ear": "Listen once and choose next week’s hardest melody/bass bar.",
       "checkpoint": "Save the two-layer evidence and one precise next task.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -2006,7 +2026,8 @@
       "ear": "Name a change in clarity, movement or count.",
       "checkpoint": "Save a Week 2 win even if the melody needs another week.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a"
@@ -2025,7 +2046,8 @@
       "ear": "Listen to whether the tune remains obvious after adding bass.",
       "checkpoint": "First combined phrase is recognisable.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -2048,7 +2070,8 @@
       "checkpoint": "Three relaxed combined loops; no requirement to master F.",
       "resourceIds": [
         "basics",
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -2069,7 +2092,8 @@
       "ear": "Name the new phrase’s supporting chord roots.",
       "checkpoint": "A second sparse melody-plus-bass phrase.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -2090,7 +2114,8 @@
       "ear": "Hum through the join; note the beat where the new phrase begins.",
       "checkpoint": "Two combined phrases connect without a restart.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -2111,7 +2136,8 @@
       "ear": "Listen to the new or repaired phrase and name the melody’s loudest note.",
       "checkpoint": "One measured repair or a third phrase; either is progress.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -2132,7 +2158,8 @@
       "ear": "Listen for a clear tune in front of bass.",
       "checkpoint": "Save the combined clip; name one audible improvement.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -2153,7 +2180,8 @@
       "ear": "Three minutes listening/log: name one audible improvement.",
       "checkpoint": "The tune and bass support can be heard in a short phrase.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a"
@@ -2172,7 +2200,8 @@
       "ear": "Hum the ending before playing it.",
       "checkpoint": "A stronger ending or a stronger existing section.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -2193,7 +2222,8 @@
       "ear": "Say the difference: A one note per click; B two notes per click.",
       "checkpoint": "A reliable middle/ending start; B is optional today.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -2214,7 +2244,8 @@
       "ear": "Tap and count the song’s own meter through a join.",
       "checkpoint": "Sixteen-bar benchmark attempt and connected learned music.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -2236,7 +2267,8 @@
       "checkpoint": "Clearer melody over the same accompaniment.",
       "resourceIds": [
         "first",
-        "technique"
+        "technique",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -2257,7 +2289,8 @@
       "ear": "Name one thing to keep steady in tomorrow’s recording. Finish on 2–3 correct repetitions, not on a mistake.",
       "checkpoint": "First dated technical demonstration if the count holds.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -2278,7 +2311,8 @@
       "ear": "Score timing, clarity, continuity, relaxation; add melody balance for combined music.",
       "checkpoint": "Save clip and second dated benchmark if it passes.",
       "resourceIds": [
-        "first"
+        "first",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a",
@@ -2300,7 +2334,8 @@
       "checkpoint": "Celebrate Month 1. If G still breaks pulse, keep C–Am–Em fluent and repair C–G next week. Next month adds Amazing Grace, your first piece from the practice ladder.",
       "resourceIds": [
         "first",
-        "basics"
+        "basics",
+        "birthday"
       ],
       "exerciseIds": [
         "pattern-a"
@@ -2521,7 +2556,7 @@
       "month": 1,
       "role": "core",
       "level": "JustinGuitar beginner",
-      "url": "https://www.justinguitar.com/modules/fingerstyle-songwriting-first-steps",
+      "url": "https://www.justinguitar.com/guitar-lessons/happy-birthday-finger-style-bg-1106",
       "source": "JustinGuitar (free)",
       "skills": "Melody first, then sparse bass; 3/4 time",
       "prepares": "Hearing a melody and finding it, the first step of every goal piece",
