@@ -1,0 +1,2919 @@
+{
+  "schemaVersion": 3,
+  "title": "Your 12-month fingerstyle journey",
+  "learner": {
+    "practiceMinutes": [
+      45,
+      60
+    ],
+    "startingChords": [
+      "C",
+      "F",
+      "D",
+      "Em",
+      "Am"
+    ],
+    "direction": [
+      "Kotaro Oshio",
+      "Sungha Jung"
+    ],
+    "mainGoal": "Play secret base (your own arrangement), 流れ行く雲 and 奇跡の山 as a year-one set, and collect a repertoire of practice pieces on the way."
+  },
+  "contentNotes": [
+    "Adapted from the existing personalised PDF plan, prepared 30 September 2026.",
+    "First 28 days retain the PDF sequence. Later months combine month.week tasks with the weekday rotation.",
+    "Month numbers are learning stages. Do not infer a milestone pass from elapsed time or check-ins.",
+    "Resources are the existing plan’s verified URLs; access descriptions may change.",
+    "Enriched 30 September 2026 from the research report “Fingerstyle guitar plan enrichment”: practice rules, health ladder, thumb-first and percussion-early technique strand, graded repertoire, scale-degree ear training, number-system arranging and landing-spot memorisation. Numeric targets are rules of thumb, not published standards.",
+    "30 September 2026: added a graded practice-piece ladder (Six String Fingerpicking levels, This is Classical Guitar grades) and three staged goal pieces. Practice pieces are stepping stones; each one names the goal-piece skill it prepares."
+  ],
+  "fingering": {
+    "p": "thumb",
+    "i": "index",
+    "m": "middle",
+    "a": "ring",
+    "stringNumbers": "1 = thinnest/highest string; 6 = thickest/lowest string.",
+    "default": "p bass, i string 3, m string 2, a string 1; follow the lesson when melody routing differs.",
+    "chords": [
+      {
+        "name": "C",
+        "shape": "x32010",
+        "bassString": 5
+      },
+      {
+        "name": "Am",
+        "shape": "x02210",
+        "bassString": 5
+      },
+      {
+        "name": "Em",
+        "shape": "022000",
+        "bassString": 6
+      },
+      {
+        "name": "G",
+        "shape": "320003",
+        "bassString": 6
+      },
+      {
+        "name": "D",
+        "shape": "xx0232",
+        "bassString": 4
+      },
+      {
+        "name": "Small F",
+        "shape": "xx3211",
+        "bassString": 4
+      },
+      {
+        "name": "Full F (short drills from Month 8)",
+        "shape": "133211",
+        "bassString": 6
+      }
+    ]
+  },
+  "routine": {
+    "normalMinutes": 50,
+    "rangeMinutes": [
+      45,
+      60
+    ],
+    "blocks": [
+      {
+        "id": "tune",
+        "title": "Tune and settle",
+        "minutes": 2,
+        "instructions": "Tune standard E A D G B E from thickest to thinnest. Drop your shoulders; support the guitar without squeezing."
+      },
+      {
+        "id": "coordination",
+        "title": "Fretting and coordination",
+        "minutes": 8,
+        "instructions": "Use today’s named shapes or join. Check notes first, then repeat the actual movement in time."
+      },
+      {
+        "id": "picking",
+        "title": "Picking and voice control",
+        "minutes": 10,
+        "instructions": "Use today’s pattern or balance task. Isolate one held chord before adding fretting changes."
+      },
+      {
+        "id": "break",
+        "title": "Put the guitar down",
+        "minutes": 2,
+        "instructions": "Stand up and release your hands."
+      },
+      {
+        "id": "solo",
+        "title": "Current solo piece",
+        "minutes": 20,
+        "instructions": "5 min melody alone; 5 min bass/support alone; 8 min combining the hardest 1–2 bars and their joins; 2 min a longer section. Mon–Tue: repeat the new chunk. Wed–Fri: rotate target, join and an older piece every 3–5 minutes. From Month 4, split the block: about 12 minutes on this month’s practice piece, about 8 minutes on your goal-piece stage."
+      },
+      {
+        "id": "ear",
+        "title": "Ear or lesson",
+        "minutes": 5,
+        "instructions": "Apply one small lesson idea, hum/find a few notes, or identify notes in the piece. Watching replaces practice time."
+      },
+      {
+        "id": "log",
+        "title": "Continuous take and log",
+        "minutes": 3,
+        "instructions": "Play one section without restarting, then finish on 2–3 correct repetitions. Write your clean tempo and note rate, one thing that improved, and tomorrow’s exact task. Save a Saturday clip."
+      }
+    ],
+    "easyDay": {
+      "minutes": 20,
+      "instructions": [
+        "Tune 2 min.",
+        "Repeat your current benchmark for 3 min.",
+        "Play a favourite learned phrase or piece for 7 min.",
+        "Listen and log for 3 min.",
+        "Free play for 5 min; skip new material."
+      ]
+    },
+    "minimumDay": {
+      "minutes": 15,
+      "instructions": [
+        "Tune 2 min.",
+        "Hardest change 3 min.",
+        "Music 7 min.",
+        "Continuous section 2 min.",
+        "Log 1 min."
+      ]
+    },
+    "adjustments": {
+      "45": "Coordination 7 min, picking 8 min, ear 3 min; keep the other blocks.",
+      "60": "Add 5 min to current repertoire and 5 min to an older piece or expression."
+    },
+    "rules": [
+      "A missed day creates no practice debt; resume without doubling the session. Try never to miss twice in a row — the 15-minute minimum counts.",
+      "Two short sessions with a break are fine, and recommended on Days 1–14 while your fingertips toughen. See the health ladder for when to adjust or stop.",
+      "The schedule is a guide. Repeat a difficult week for 1–2 weeks while enjoying familiar music.",
+      "Barres build gradually: small F xx3211 first, 2-string partial barres in Month 5, 3–4-string partial barres in Month 7, then a full F 133211 in short drills from Month 8. Fmaj7 xx3210 is a different chord.",
+      "Give any new technique only 5–10 minutes a day in its first week."
+    ]
+  },
+  "resources": [
+    {
+      "id": "basics",
+      "title": "JustinGuitar Beginner Course",
+      "url": "https://www.justinguitar.com/beginner",
+      "use": "Clean fretting, chord changes, rhythm, and G/F lessons. Learn the small segment relevant to today, then apply it.",
+      "access": "Website beginner course free; app is separate."
+    },
+    {
+      "id": "before",
+      "title": "Before You Begin: guitar basics",
+      "url": "https://www.justinguitar.com/modules/before-you-begin-guitar-basics",
+      "use": "Review tuning, posture and chord diagrams when needed.",
+      "access": "Free website lessons."
+    },
+    {
+      "id": "first",
+      "title": "Fingerstyle & Songwriting First Steps",
+      "url": "https://www.justinguitar.com/modules/fingerstyle-songwriting-first-steps",
+      "use": "Start fingerstyle and Happy Birthday. Extract the melody first; add sparse bass later.",
+      "access": "Free website lessons."
+    },
+    {
+      "id": "amazing",
+      "title": "Beginner Amazing Grace arrangement",
+      "url": "https://sixstringfingerpicking.com/songs/amazing-grace-guitar-lesson-easy/",
+      "use": "A specific beginner melody-and-bass solo in standard tuning. Follow its 3/4 rhythm.",
+      "access": "Song video free; check the page for paid tab options."
+    },
+    {
+      "id": "green",
+      "title": "Beginner Greensleeves arrangement",
+      "url": "https://sixstringfingerpicking.com/songs/greensleeves-guitar-lesson/",
+      "use": "A possible third piece. Learn only this beginner version and follow the lesson rhythm.",
+      "access": "Song video free; check the page for paid tab options."
+    },
+    {
+      "id": "songs",
+      "title": "Six String Fingerpicking song library",
+      "url": "https://sixstringfingerpicking.com/songs/",
+      "use": "Graded 1 (Novice) to 8 (Expert) across 500+ songs. Year-one ladder: Amazing Grace (1), Greensleeves (1–2), a simplified Freight Train or similar Travis tune (2–3), Dust in the Wind intro/verse (3–4).",
+      "access": "Song videos free; many tabs and courses paid."
+    },
+    {
+      "id": "folk",
+      "title": "JustinGuitar Folk Fingerstyle",
+      "url": "https://www.justinguitar.com/modules/folk-fingerstyle",
+      "use": "Patterns, chord melody and Basic Travis Picking for thumb independence. Apply one idea to your music at a time.",
+      "access": "Free website lessons."
+    },
+    {
+      "id": "technique",
+      "title": "This is Classical Guitar: beginner lessons",
+      "url": "https://www.thisisclassicalguitar.com/beginner-classical-guitar-lessons/",
+      "use": "Selective posture, hand-position and tone demonstrations. Adapt the support and posture to your acoustic guitar.",
+      "access": "Free reference lessons; broader course is classical."
+    },
+    {
+      "id": "theory",
+      "title": "MusicTheory.net exercises",
+      "url": "https://www.musictheory.net/exercises",
+      "use": "Choose one narrow fretboard or ear exercise for five minutes. Relate the result to your current piece.",
+      "access": "Free online exercises."
+    },
+    {
+      "id": "sungha",
+      "title": "Sungha Jung official channel",
+      "url": "https://www.youtube.com/user/jwcfree",
+      "use": "Listen to a favourite performance three times: melody, bass, then rhythm. Use it for motivation rather than a speed target.",
+      "access": "Public videos."
+    },
+    {
+      "id": "oshio",
+      "title": "Kotaro Oshio official site",
+      "url": "https://www.kotaro-oshio.com/",
+      "use": "Artist information and inspiration for your longer-term musical direction.",
+      "access": "Public site."
+    },
+    {
+      "id": "scores",
+      "title": "Sungha Jung authorised sheet-music catalogue",
+      "url": "https://www.musicnotes.com/artists/sungha-jung",
+      "use": "Official Sungha Jung arrangements (112+, about $4.99 each) with an Easy Tab filter. Check the preview before buying. His Patreon has been removed, so use this instead.",
+      "access": "Paid scores."
+    },
+    {
+      "id": "twilight",
+      "title": "Twilight: Oshio composition, Jung arrangement",
+      "url": "https://www.musicnotes.com/sheetmusic/sungha-jung/twilight/MN0228280",
+      "use": "Example of an official artist edition for later inspection. It is not a required beginner arrangement.",
+      "access": "Paid score."
+    },
+    {
+      "id": "harmonics",
+      "title": "JustinGuitar Natural Harmonic Series",
+      "url": "https://www.justinguitar.com/guitar-lessons/natural-harmonic-series-te-502",
+      "use": "Natural harmonics at frets 12, 7 and 5, part of the core work from Month 6.",
+      "access": "Website reference lesson."
+    },
+    {
+      "id": "independence",
+      "title": "Adam Rafferty: thumb and finger independence",
+      "url": "https://www.adamrafferty.com/2015/01/03/thumb-and-finger-independence-for-fingerstyle-guitarists/",
+      "use": "Three drills: thumb moves while fingers stay still, fingers move while thumb waits, then sing the groove and combine.",
+      "access": "Free article."
+    },
+    {
+      "id": "travis",
+      "title": "Jamie Stillway: nuts and bolts of Travis picking",
+      "url": "https://acousticguitar.com/lesson-learn-the-nuts-and-bolts-of-travis-picking/",
+      "use": "The thumb-alone-first path: root–fifth bass, then treble notes, then hammer-ons.",
+      "access": "Free lesson (Acoustic Guitar)."
+    },
+    {
+      "id": "reststroke",
+      "title": "Douglas Niedt: rest stroke for melody in arpeggios",
+      "url": "https://douglasniedt.com/reststrokeformelodyofarpeggiopart1.html",
+      "use": "The most direct fix when the melody is buried under the bass.",
+      "access": "Free article."
+    },
+    {
+      "id": "percussion",
+      "title": "Doug Young: percussive fingerstyle techniques",
+      "url": "https://acousticguitar.com/learn-these-percussive-fingerstyle-guitar-techniques-to-add-punch-and-groove-to-your-playing/",
+      "use": "A graded slap sequence: slap on 2 and 4, then with chords, syncopation, sustained notes and a full piece.",
+      "access": "Free lesson (Acoustic Guitar)."
+    },
+    {
+      "id": "jungstyle",
+      "title": "How to play like Sungha Jung",
+      "url": "https://www.playfingerstyleguitar.com/how-to-play-like-sungha-jung",
+      "use": "His core techniques (thumb slap on 2 and 4, harmonics, barres) and easier originals: Siesta, L’Atelier, Tadhana.",
+      "access": "Free article."
+    },
+    {
+      "id": "barre",
+      "title": "JustinGuitar: easy barre chords",
+      "url": "https://www.justinguitar.com/modules/beginner-consolidation-easy-barre-chords",
+      "use": "Partial barres before the full F.",
+      "access": "Free website lessons."
+    },
+    {
+      "id": "ear-trainer",
+      "title": "Functional Ear Trainer",
+      "url": "https://apps.apple.com/us/app/functional-ear-trainer/id1088761926",
+      "use": "Plays a cadence to set the key, then asks for a note’s scale degree. 2–3 days a week in the ear block.",
+      "access": "App (iOS; also on Android)."
+    },
+    {
+      "id": "transcribe",
+      "title": "Transcribe! slow-down tool",
+      "url": "https://www.seventhstring.com/xscribe/overview.html",
+      "use": "Loop and slow recordings (1/20× to 2×) without changing pitch, for by-ear work from Month 4. Moises (about $3.99/month) is an alternative.",
+      "access": "Paid, with a 30-day free trial."
+    },
+    {
+      "id": "arranging",
+      "title": "Alex de Grassi: create a solo fingerstyle arrangement",
+      "url": "https://acousticguitar.com/tips-to-create-a-solo-fingerstyle-guitar-arrangement/",
+      "use": "Find the melody inside the chords, isolate it, then combine. Pair it with the Month 8 arranging recipe.",
+      "access": "Free lesson (Acoustic Guitar)."
+    },
+    {
+      "id": "numbers",
+      "title": "Nashville Number System",
+      "url": "https://en.wikipedia.org/wiki/Nashville_Number_System",
+      "use": "Write chords as numbers so any chart moves to a guitar-friendly key.",
+      "access": "Free reference."
+    },
+    {
+      "id": "elise",
+      "title": "@ELISE: official Kotaro Oshio scores",
+      "url": "https://www.at-elise.com/Music/kotaro-oshio/",
+      "use": "Oshio-supervised scores for about ¥200–¥800 each, plus technique-analysis guides. For the Month 10 dream excerpt (Sakura Saku Koro, Komorebi, Twilight). Check each tuning on the score.",
+      "access": "Paid per score (Japanese site)."
+    },
+    {
+      "id": "recording",
+      "title": "Recording an acoustic guitar",
+      "url": "https://audient.com/tutorial/5-essential-tips-for-recording-acoustic-guitar/",
+      "use": "Aim the mic at the 12th–14th fret, 6–12 inches away (a phone can be 12–18 inches), away from the boomy soundhole.",
+      "access": "Free article."
+    },
+    {
+      "id": "health",
+      "title": "BAPAM: playing-related health",
+      "url": "https://www.bapam.org.uk/return-to-play/",
+      "use": "Warning signs that need a clinician, and returning to play after injury.",
+      "access": "Free."
+    },
+    {
+      "id": "sb-chords",
+      "title": "U-FRET: secret base chords",
+      "url": "https://www.ufret.jp/song.php?data=1060",
+      "use": "Chord chart for building your own arrangement. Use capo 4 so you can play C-shape chords you already know.",
+      "access": "Free (Japanese)."
+    },
+    {
+      "id": "sb-solo",
+      "title": "Piascore: secret base solo guitar (intermediate)",
+      "url": "https://store.piascore.com/scores/42184",
+      "use": "A published 5-page fingerstyle version for the optional stretch stage. Watch its video first.",
+      "access": "About ¥437."
+    },
+    {
+      "id": "kumo-score",
+      "title": "Kishibe: 流れ行く雲 TAB",
+      "url": "https://www.mymusic5.com/ja/video/33108",
+      "use": "Score for 流れ行く雲 (tuning C G D G A D).",
+      "access": "Paid download, about $5."
+    },
+    {
+      "id": "kumo-notes",
+      "title": "Kamakura Guitar: learning 流れ行く雲",
+      "url": "https://kamagita.exblog.jp/29732957/",
+      "use": "A learner’s notes: ♩=63, original capo 9, and the hard spots are the three-string cluster at fret 4 and muting string 2.",
+      "access": "Free blog (Japanese)."
+    },
+    {
+      "id": "yama-score",
+      "title": "Kishibe: 奇跡の山 TAB",
+      "url": "https://www.mymusic5.com/ja/kishibemasaaki/33106",
+      "use": "Score for 奇跡の山: open D (D A D F♯ A D), capo 2, intermediate.",
+      "access": "Paid download."
+    },
+    {
+      "id": "yama-lesson",
+      "title": "L Guitar School: 奇跡の山 lesson notes",
+      "url": "https://el-guitarschool.com/blog/lesson401-450/gita-kyousituressunnkyoku-kisekinoyama/",
+      "use": "Hard spots: stretchy shapes, a neck-bend “wave”, vibrato and staccato muting. A student with 6 months’ experience took about 3 months to play it slowly.",
+      "access": "Free blog (Japanese)."
+    },
+    {
+      "id": "yama-live",
+      "title": "Kishibe plays 奇跡の山 (live)",
+      "url": "https://www.youtube.com/watch?v=0RY7N8HxCuA",
+      "use": "Watch his hands for the open-D shapes and the neck bend.",
+      "access": "Free video."
+    },
+    {
+      "id": "kishibe",
+      "title": "Masaaki Kishibe official shop",
+      "url": "https://masaaki-kishibe.com/shop/",
+      "use": "CDs and official TAB books, including pieces from the 奇跡の山 album.",
+      "access": "Paid (Japanese site)."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "chord-check",
+      "title": "Clean chord check",
+      "steps": [
+        "Form the chord, then pluck each intended string separately with the thumb. Do not play strings marked x.",
+        "Place a fretting fingertip close behind its fret if a note buzzes. Curve fingers so they do not accidentally touch neighbours.",
+        "Use just enough pressure for a clear note. Release, reform, and check again."
+      ],
+      "tempo": "No metronome for the first checks; add a pulse after the notes are reliable.",
+      "month": 1
+    },
+    {
+      "id": "chord-change",
+      "title": "Change in time",
+      "steps": [
+        "Choose two shapes. Change slowly five times, checking the new chord after each move. Keep useful shared fingers in place.",
+        "Set 40–50 BPM. Count 1 2 3 4 aloud. Pluck only the chord bass on beat 1, then use beats 2–4 to prepare the next shape.",
+        "After this is reliable, add Pattern A and change after every four-beat bar. Loop three times cleanly before increasing 2–5 BPM."
+      ],
+      "tempo": "40–50 BPM, quarter-note beats. Slower is acceptable if the count stays clear.",
+      "month": 1
+    },
+    {
+      "id": "pattern-a",
+      "title": "Pattern A: four notes",
+      "steps": [
+        "Hold Em. Thumb p plays string 6, index i string 3, middle m string 2, ring a string 1.",
+        "Count 1 2 3 4 and play p i m a, one note per metronome click. Let each note ring; keep the wrist and fingers easy.",
+        "For C/Am use bass string 5; G uses 6; D and small F use 4. Keep i/m/a on 3/2/1.",
+        "Once steady, change chord after four beats. Use C–Am–Em–G, one chord per bar."
+      ],
+      "tempo": "40–50 BPM to start; log your clean tempo and one note per beat.",
+      "month": 1
+    },
+    {
+      "id": "pinch",
+      "title": "Pinch: thumb and ring together",
+      "steps": [
+        "Hold C. Play p on string 5 and a on string 1 at exactly the same moment. Let both ring for four beats.",
+        "Listen for one sound, not a “flam” of two. If they split, slow down and prepare both fingers on their strings first.",
+        "Pinch on beat 1, then play i m a on beats 2–4. Repeat on Am, Em (p on 6) and G (p on 6).",
+        "Next, pinch on beats 1 and 3."
+      ],
+      "tempo": "50–60 BPM, quarter notes.",
+      "month": 1
+    },
+    {
+      "id": "layers",
+      "title": "Learn a solo in layers",
+      "steps": [
+        "Listen and hum one short phrase, then play melody alone in the lesson rhythm.",
+        "Practise bass separately, starting with one note at each bar or chord change.",
+        "Combine only one or two bars. Pluck bass and melody together where they land together. Use the thumb for bass and a comfortable finger for each melody string.",
+        "After three relaxed loops, include the bar before and after. Add inner notes only when they do not disturb the tune."
+      ],
+      "tempo": "Use the score or lesson meter. Happy Birthday and Amazing Grace are commonly in 3/4: count 1 2 3, not the four-count exercise rhythm.",
+      "month": 1
+    },
+    {
+      "id": "pattern-b",
+      "title": "Pattern B: eight notes",
+      "steps": [
+        "Hold Em; keep p/i/m/a on bass/3/2/1. Play p i m a p i m a.",
+        "Count 1 & 2 & 3 & 4 &: two notes per click, with clicks only on 1 2 3 4.",
+        "First play on Em or Am alone. Add C–Am–Em–G changes only when the picking stays even. Change on the next beat 1."
+      ],
+      "tempo": "40–50 BPM initially; suggested monthly test 45–55 BPM. Two notes per beat doubles the note rate of Pattern A.",
+      "month": 2
+    },
+    {
+      "id": "thumb-alone",
+      "title": "Thumb alone: alternating bass",
+      "steps": [
+        "Rest i m a lightly on strings 3 2 1 so the fingers stay still (Rafferty drill 1).",
+        "Am and C: thumb plays 5–4–5–4 on beats 1 2 3 4. Em: 6–4–6–4 or 6–5. D: 4–3.",
+        "Keep every bass note the same volume and length. Eight bars per chord, then change chord on beat 1.",
+        "Palm-mute variant: rest the side of your picking hand lightly on the bass strings by the bridge for a thumpy, even bass.",
+        "Drill 2: hold a steady bass note on beat 1 while the fingers play i m a freely, so the fingers move while the thumb waits."
+      ],
+      "tempo": "3–5 minutes daily from Month 2. Start at 50 BPM and aim for 60 BPM over 8 bars.",
+      "month": 2
+    },
+    {
+      "id": "monotonic",
+      "title": "Monotonic root bass under a melody",
+      "steps": [
+        "Choose a 4-bar phrase you know. The thumb plays the chord root as steady eighth notes (two per click).",
+        "Keep the thumb outside, towards your face, and the fingers underneath it, so they never collide.",
+        "Add the melody one note at a time. The bass must not stop or stutter when a melody note lands.",
+        "Palm-mute the bass lightly if it covers the tune."
+      ],
+      "tempo": "60 BPM eighths is a Month 3 target; start slower.",
+      "month": 3
+    },
+    {
+      "id": "alternating-thumb",
+      "title": "Alternating thumb",
+      "steps": [
+        "Before this, build the thumb alone with the “Thumb alone” drill from Month 2.",
+        "Hold Am: thumb plays strings 5 4 5 4 on counts 1 2 3 4. C also uses 5/4; Em uses 6/5; D uses 4/3. Use notes of the held chord.",
+        "Keep bass attacks evenly spaced and gentle. Play eight bars on one chord before adding a chord change.",
+        "For Am/C/Em, try p i p m p i p a: thumb on numbered beats, fingers on the &. Use i=3, m=2, a=1. Begin by adding only the first treble note.",
+        "Keep D thumb-only until a lesson explains treble routing: its thumb already uses string 3."
+      ],
+      "tempo": "60–70 BPM by the end of Month 4, with treble notes on the “&”. Learn slower.",
+      "month": 4
+    },
+    {
+      "id": "travis",
+      "title": "Travis picking: p-i-p-m",
+      "steps": [
+        "Start with thumb-alone alternating bass (5–4–5–4 on C) until it is automatic.",
+        "Add i on string 3 on the “&” after beat 1 only. Then add m on string 2 after beat 2.",
+        "Full pattern: p i p m p i p m, with the thumb on the beats and the fingers on the “&”s.",
+        "Put a pinch (p+a) on beat 1 of each bar.",
+        "Put one hammer-on, from open to fret 2 on string 3, inside the pattern without the bass moving."
+      ],
+      "tempo": "60–70 BPM by the end of Month 4, 70–80 BPM in Month 5, 80–90 BPM by Month 12.",
+      "month": 4
+    },
+    {
+      "id": "balance",
+      "title": "Bring out the melody",
+      "steps": [
+        "Play an eight-bar melody phrase alone at the volume you want.",
+        "Add bass with lighter thumb attacks, then quiet inner notes. Listen for the melody at every chord change.",
+        "Record the same phrase softly and moderately at the same tempo. Plan where it grows and where it relaxes."
+      ],
+      "tempo": "Use the phrase’s existing clean tempo; do not increase speed while adjusting tone.",
+      "month": 5
+    },
+    {
+      "id": "rest-stroke",
+      "title": "Rest stroke for the melody",
+      "steps": [
+        "Pluck a melody note on string 1 or 2 with a (or m) and let the finger come to rest on the next string towards you.",
+        "Compare it with a free stroke: the rest stroke is fuller and louder with the same effort.",
+        "Play an 8-bar phrase: rest stroke on melody notes, free stroke on accompaniment, soft thumb.",
+        "Record it. The tune should sit clearly above the bass."
+      ],
+      "tempo": "Use the phrase’s clean tempo. Tone matters more than speed.",
+      "month": 5
+    },
+    {
+      "id": "repair",
+      "title": "Repair a difficult join",
+      "steps": [
+        "Name the exact change or beat that fails. Loop the preceding bar, the difficult bar and the next bar.",
+        "Reduce to melody alone or bass alone; reduce the metronome by 5–10 BPM if necessary.",
+        "Complete three clear, relaxed loops. Restore one layer at a time, then reconnect to a longer section.",
+        "In a full take, keep counting and recover at the next phrase instead of restarting."
+      ],
+      "tempo": "Raise 4–6 BPM after three clean loops in a row; confirm on another day. Finish on 2–3 correct loops."
+    },
+    {
+      "id": "backbeat-slap",
+      "title": "Backbeat slap on 2 and 4",
+      "steps": [
+        "Hold a chord. With the side of your thumb or open palm, slap strings 3–5 near the soundhole on beats 2 and 4 to make a “snare”.",
+        "Pluck the bass on 1 and 3, slap on 2 and 4. Loop four bars with the metronome.",
+        "Set the click on 2 and 4 only, so your slaps line up with it.",
+        "Add a pinch or a melody note on beat 1, then play 16 bars without the slap drifting ahead of the click."
+      ],
+      "tempo": "70–80 BPM by Month 6. Cap new slap practice at 5–10 minutes a day for the first week.",
+      "month": 6
+    },
+    {
+      "id": "harmonics",
+      "title": "Natural harmonics at frets 12, 7 and 5",
+      "steps": [
+        "Touch string 1 lightly, directly above the fret 12 wire. Don’t press it down.",
+        "Pluck near the bridge, then lift the touching finger straight away. The note should chime like a bell.",
+        "Repeat on every string at fret 12, then fret 7, then fret 5 (fret 5 is the quietest).",
+        "Use one harmonic as the last note of a phrase or an ending."
+      ],
+      "tempo": "No tempo target. Aim for a clear chime on all six strings.",
+      "month": 6
+    },
+    {
+      "id": "vibrato",
+      "title": "Vibrato on long notes",
+      "steps": [
+        "Fret string 2 at fret 5 and pluck it.",
+        "Gently rock or push the string with a relaxed wrist, a small, even wobble.",
+        "Start the vibrato after the note sounds, not at the attack.",
+        "Add it only to long melody notes in your piece."
+      ],
+      "tempo": "Slow and even first; match the song’s feel.",
+      "month": 7
+    },
+    {
+      "id": "thumb-slap",
+      "title": "Thumb slap replaces the bass",
+      "steps": [
+        "Play a simple melody with a bass on beat 1.",
+        "On beats 2 and 4, replace the bass note with a thumb slap across the low strings.",
+        "Keep the melody notes ringing through the slaps.",
+        "Loop two bars; then extend to eight."
+      ],
+      "tempo": "70–90 BPM during Months 7–8. Start slower.",
+      "month": 7
+    },
+    {
+      "id": "arranging",
+      "title": "Arrange a tune with chord numbers",
+      "steps": [
+        "Sing the hook until it is secure.",
+        "Choose C, G or D so the melody sits on strings 1–3 below about fret 7.",
+        "Write chord numbers above each bar: 1, 4 and 5 are major; 2, 3 and 6 are minor.",
+        "Thumb: a root on beat 1, then root and fifth if your hand allows.",
+        "Keep the melody as the top note. Drop any chord tone that sits above it.",
+        "Fill only where the melody holds a long note.",
+        "Build the intro and outro from the hook, ending on the 1 chord."
+      ],
+      "tempo": "Comfortable melody tempo. Write the result as TAB, rhythm and chord numbers.",
+      "month": 8
+    },
+    {
+      "id": "finger-strum",
+      "title": "Finger strum and flick groove",
+      "steps": [
+        "Hold a chord. Flick i and m outwards across the treble strings on the “&”s.",
+        "Combine: bass on 1, slap on 2, flick on “2&”, bass on 3, slap on 4.",
+        "Keep the flicks light: they are colour, not volume.",
+        "This builds towards Oshio’s “nail attack”, which is year-two work."
+      ],
+      "tempo": "70–90 BPM during Months 9–10.",
+      "month": 9
+    },
+    {
+      "id": "landing-spots",
+      "title": "Memorise with landing spots",
+      "steps": [
+        "Mark 3–5 landing spots in each piece: section starts, the key change, the big moment, the ending.",
+        "Practise starting from each landing spot in a random order.",
+        "After a slip, keep the beat and re-enter at the next landing spot. Don’t signal the mistake.",
+        "Rehearse under mild pressure: record yourself, jog for 60 seconds first, or play for a listener."
+      ],
+      "tempo": "Performance tempo, slightly under your best clean tempo.",
+      "month": 11
+    }
+  ],
+  "weeklyRotation": [
+    {
+      "dayOfWeek": 1,
+      "name": "Monday",
+      "title": "Learn a small phrase",
+      "coordination": "Choose the week’s two hardest shapes or joins; check them slowly before playing in time.",
+      "picking": "Isolate this week’s picking task on one held chord; add a change only after three relaxed repetitions.",
+      "solo": "Choose the week’s target phrase, usually 1–2 bars. Hear and hum it, learn melody alone, then bass alone. Repeat it in one block today; that suits a brand-new chunk.",
+      "ear": "Hum the first 3–5 melody notes and find them on one string.",
+      "finish": "Play the new phrase once and write the exact bar or transition to repair tomorrow."
+    },
+    {
+      "dayOfWeek": 2,
+      "name": "Tuesday",
+      "title": "Watch, then apply",
+      "coordination": "Cold take first: play Monday’s phrase once before warming up and note the result. Then repeat Monday’s change using the lesson fingering that keeps notes clean.",
+      "picking": "Watch one short relevant segment, then immediately reproduce the movement slowly. Watching uses part of this block.",
+      "solo": "Combine the week’s melody and sparse bass in a 1–2 bar loop. Three relaxed loops before adding notes.",
+      "ear": "Use the month’s linked lesson for one specific question, then explain the answer in your own words.",
+      "finish": "Play your loop with the bar before and after; log clean tempo and note rate."
+    },
+    {
+      "dayOfWeek": 3,
+      "name": "Wednesday",
+      "title": "Join and balance",
+      "coordination": "Loop the approach to your target phrase and its exit. Notice which finger must arrive first.",
+      "picking": "Play melody alone, then add a softer thumb or inner voice without changing tempo.",
+      "solo": "Join the target to its preceding phrase. Use 5 minutes of the music block to revisit an older learned piece. From today, rotate every 3–5 minutes: target phrase → its join → older piece. It will feel less smooth, and that is expected.",
+      "ear": "Listen to a short recording: identify whether a pause came from fretting, picking or lost count.",
+      "finish": "Take one longer section without restarting; keep the pulse through slips."
+    },
+    {
+      "dayOfWeek": 4,
+      "name": "Thursday",
+      "title": "Extend the music",
+      "coordination": "Check the next phrase’s required shape; leave unused difficult chords for later.",
+      "picking": "Maintain the current pattern at yesterday’s reliable tempo; add only one new element.",
+      "solo": "Learn the next 1–2 bars or next musical layer if the current phrase is steady. Otherwise repeat it. Keep rotating between the new bars, the joins and an older piece.",
+      "ear": "Spend five minutes on the month’s ear/theory task and connect it to a note in your piece.",
+      "finish": "Name the new musical detail you can hear, and tomorrow’s smallest useful repair."
+    },
+    {
+      "dayOfWeek": 5,
+      "name": "Friday",
+      "title": "Repair the bottleneck",
+      "coordination": "Choose the one transition most likely to stop the beat; include the preceding and following bar.",
+      "picking": "Simplify the weak spot to bass-only or melody-only, then restore one layer at a time.",
+      "solo": "Spend most of the music block repairing that spot. Reconnect it to a longer section at a controlled tempo.",
+      "ear": "Review the lesson only for the remaining question; otherwise hum/find a short phrase.",
+      "finish": "Rehearse Saturday’s recording section once. Do not speed up to compensate for an error. Finish on 2–3 correct repetitions of the repaired spot."
+    },
+    {
+      "dayOfWeek": 6,
+      "name": "Saturday",
+      "title": "Record a small win",
+      "coordination": "Use gentle checks and a brief repair, then play the current benchmark.",
+      "picking": "Keep the benchmark at a tempo you can reproduce; record BPM and notes per beat.",
+      "solo": "Record 30–60 seconds or the week’s designated test. One uninterrupted take; recover at the next phrase.",
+      "ear": "Listen to the lesson or model recording first, then to your own clip. Score from the playback, not from memory. Name one audible improvement and one next task.",
+      "finish": "Save the clip with month/week and score the relevant dimensions. In review week, repeat the monthly test on another day."
+    },
+    {
+      "dayOfWeek": 0,
+      "name": "Sunday",
+      "title": "Easy review and enjoyment",
+      "coordination": "Cold take first: play the week’s phrase once before warming up and log it. Then use the 20-minute easy routine with relaxed chord checks only.",
+      "picking": "Repeat a familiar benchmark for three minutes; avoid a new technique.",
+      "solo": "Play an older favourite from your practice pieces for seven minutes, just for enjoyment.",
+      "ear": "Listen to one of your goal pieces (secret base, 流れ行く雲 or 奇跡の山) and notice one detail you will be able to play soon. Compare an old clip of your own and name one improvement.",
+      "finish": "Free play, then log. Rest your hands if needed; resume normally next session.",
+      "minutes": 20
+    }
+  ],
+  "monthlyPlans": [
+    {
+      "month": 1,
+      "title": "Clean changes and first solo phrases",
+      "focus": "Clean C, Am and Em; add G and D. Begin a recognisable tune, then sparse bass.",
+      "coordination": "C x32010 and Am x02210 share useful fingers. Em 022000. Pluck the intended strings, move close behind each fret, then practise C–Am and Am–Em slowly. Add G 320003 and D xx0232 in Week 2. F gets at most two minutes separately.",
+      "picking": "Pattern A: p i m a on bass/3/2/1, one note per click at 40–50 BPM. Use bass 5 for C/Am, 6 for Em/G, 4 for D. Change after four beats only when steady. From Week 3, add a pinch (p+a together) on beat 1 of each chord. Aim for 50–60 BPM by the end of the month.",
+      "solo": "Use Happy Birthday from the linked lesson. Listen and hum, learn the melody in its actual rhythm, then add one bass note at a phrase or chord start from Week 3. Work in 1–2 bar loops. Bonus when a session feels easy: Carulli’s Arpèges de trois notes (free PDF) for even p-i-m arpeggios.",
+      "ear": "Hum 3–5 melody notes and find them on one string. Learn how tab string numbers and fret numbers work. Use 3-count song rhythm when the lesson is in 3/4. Play the tonic chord before every hum-and-find, and count aloud while you play.",
+      "milestone": {
+        "title": "First solo phrase + a steady 16-bar pattern",
+        "testSteps": [
+          "Tune and select a comfortable metronome tempo.",
+          "Play Pattern A over C–Am–Em–G for 16 bars: one chord every four beats, sequence repeated four times, with a pinch (p+a) on each chord’s beat 1.",
+          "Record a recognisable melody and one short melody-with-bass phrase.",
+          "Repeat the technical test on a different day; save both dates."
+        ],
+        "passCriteria": "Keep the count and finish without stopping. Actual clean tempo matters more than 50 BPM. A full F barre is unnecessary.",
+        "suggestedTempo": "Aim for 50–60 BPM if comfortable",
+        "noteRate": "Pattern A: quarter notes",
+        "repeatOnDifferentDays": true,
+        "optional": ""
+      },
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Clean notes and a pulse",
+          "coordination": "C–Am and Am–Em clean checks. Setup check this week: string height and light strings.",
+          "picking": "Pattern A on Em, Am and C.",
+          "solo": "First two melody phrases only.",
+          "ear": "Hum and count the phrase.",
+          "checkpoint": "Save a recognisable 20–30-second melody clip.",
+          "resourceIds": [
+            "basics",
+            "first"
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Add G and connect",
+          "coordination": "G checks; C–G and G–D changes.",
+          "picking": "Pattern A, bass on 6 for G and 4 for D.",
+          "solo": "Finish melody; begin a separate bass phrase.",
+          "ear": "Identify the first phrase’s bass notes in the lesson.",
+          "checkpoint": "Melody through; a separate bass phrase.",
+          "resourceIds": [
+            "basics",
+            "first"
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Melody plus sparse bass",
+          "coordination": "Two weakest pairs; two-minute small-F check if comfortable.",
+          "picking": "Pattern A over C–Am–Em–G; add a pinch on beat 1.",
+          "solo": "Combine the first 1–2 bars, then connect two phrases.",
+          "ear": "Hear melody versus bass in your recording.",
+          "checkpoint": "Record 20–45 seconds of combined phrases.",
+          "resourceIds": [
+            "first"
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Consolidate and measure",
+          "coordination": "Repair weakest pair at your clean tempo.",
+          "picking": "16 bars of Pattern A with pinches; Pattern B on Em only if A is easy.",
+          "solo": "Finish a sparse-bass phrase or strengthen existing ones.",
+          "ear": "Compare Day 1 and Day 27.",
+          "checkpoint": "Record monthly benchmark and current solo section.",
+          "resourceIds": [
+            "first",
+            "basics"
+          ]
+        }
+      ],
+      "resourceIds": [
+        "basics",
+        "before",
+        "first"
+      ]
+    },
+    {
+      "month": 2,
+      "title": "Eight-note control and a short solo",
+      "focus": "Keep eighth notes even and connect a substantial section of your first solo.",
+      "coordination": "Keep C–Am–Em–G changes clean. Check one new G7/D7 shape only if the lesson needs it; copy the lesson’s fingering and exclude muted strings. Change in time with bass-only before the full pattern.",
+      "picking": "Pattern B is p i m a p i m a on bass/3/2/1 twice. Count 1 & 2 & 3 & 4 &, two notes per click. Start on Em/Am at 40–50 BPM; then add one chord per four-beat bar. Also 3–5 minutes of thumb-alone alternating bass every day: fingers rest still on 3/2/1 while the thumb plays 5–4–5–4 on Am/C, 6–4 on Em. Try a palm-muted version too.",
+      "solo": "Finish Happy Birthday’s melody and sparse bass. Start Amazing Grace (easy, SSF level 1) in 3/4: melody first, then bass. Learn missing phrases before polishing the opening. Bonus: Silent Night (beginner).",
+      "ear": "Find a 3–5-note melody by ear, then compare with the lesson. Name the bass root of C, Am, Em and G before playing it. Two or three days a week, use Functional Ear Trainer for scale degrees 1, 3 and 5 only. Read the rhythm values on your TAB, not just the fret numbers.",
+      "milestone": {
+        "title": "Eight notes through changes + a connected solo",
+        "testSteps": [
+          "Play Pattern B for 16 bars through C–Am–Em–G at a logged tempo.",
+          "Count the & subdivisions; check you are playing two notes per click.",
+          "Record a substantial connected melody-and-bass section, or the full short tune if ready.",
+          "Play 8 bars of thumb-alone alternating bass on Am, C and Em at a logged tempo (aim 55–60 BPM).",
+          "Repeat the technical test on another day."
+        ],
+        "passCriteria": "Even subdivisions, clear chord landings and no restart. The solo tune remains audible.",
+        "suggestedTempo": "Suggested 55–65 BPM for Pattern B; thumb-alone around 60 BPM",
+        "noteRate": "Pattern B: eighth notes",
+        "repeatOnDifferentDays": true,
+        "optional": ""
+      },
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Pattern B on a held chord",
+          "coordination": "C–Am clean changes without B initially.",
+          "picking": "B on Em for four bars, then Am; count every &. Then 3 minutes of thumb-alone bass on Am.",
+          "solo": "Learn the next unfinished solo phrase, melody and bass separately.",
+          "ear": "Name Em and Am bass roots.",
+          "checkpoint": "Four bars of B on each chord without losing the count.",
+          "resourceIds": [
+            "first",
+            "independence"
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Pattern B with changes",
+          "coordination": "Bass-only C–Am–Em–G changes.",
+          "picking": "B on C–Am; then Em–G. Change on the next 1.",
+          "solo": "Combine and connect the week’s two phrases.",
+          "ear": "Hum the melody over a spoken count. Functional Ear Trainer: degrees 1-3-5.",
+          "checkpoint": "Eight bars of B with changes; connected solo phrase.",
+          "resourceIds": [
+            "first"
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Link sections",
+          "coordination": "Practise the exact change between two solo sections.",
+          "picking": "B at existing clean tempo; thumb-alone bass with palm muting.",
+          "solo": "Join sections including their approach and exit.",
+          "ear": "Listen back for the melody at chord changes.",
+          "checkpoint": "A substantial section completes without restart.",
+          "resourceIds": [
+            "first",
+            "amazing"
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Consolidate and record",
+          "coordination": "One troublesome change, then benchmark.",
+          "picking": "16 bars B through C–Am–Em–G; 8 bars of thumb-alone bass.",
+          "solo": "Continuous current solo section and a deliberate ending.",
+          "ear": "Compare with Month 1; identify one improvement.",
+          "checkpoint": "Two separate-day milestone attempts.",
+          "resourceIds": [
+            "first"
+          ]
+        }
+      ],
+      "resourceIds": [
+        "first",
+        "basics",
+        "amazing",
+        "independence",
+        "ear-trainer"
+      ]
+    },
+    {
+      "month": 3,
+      "title": "Finish your first complete solo",
+      "focus": "A complete simple arrangement, including joins and ending.",
+      "coordination": "Replace random chord drills with the actual hardest move in the piece. Check the new shape note by note; loop preceding bar + difficult bar + following bar at a steady count.",
+      "picking": "Use a four-bar Pattern A or B check, then melody balance. Thumb plays the score’s bass strings; i/m/a usually cover 3/2/1. Follow lesson fingering when melody moves beyond this starting assignment. New thumb step: monotonic root bass. The thumb plays steady eighth-note roots under a 4-bar melody, staying outside the fingers. Palm-mute it if it covers the tune.",
+      "solo": "Finish Happy Birthday as your first complete solo: every section and the ending, including starts from the middle. Keep building Amazing Grace. Next up: Greensleeves (free PDF), your first minor-key piece. Bonus: Giuliani’s Andantino Op. 50 No. 1 for arpeggio control.",
+      "ear": "Listen to your complete tune and mark where you breathe or pause musically. Hum an ending, then reproduce its rhythm before checking the notes. Ear game: listen to phrase endings and decide “home or not home” (does it end on the tonic?). Lock your thumb to the click.",
+      "milestone": {
+        "title": "First complete solo",
+        "testSteps": [
+          "Tune; set a comfortable piece tempo and note its meter.",
+          "Play your whole simple melody-and-bass arrangement, including the ending.",
+          "Continue after a small slip and rejoin at the next beat or phrase.",
+          "Name one landing spot and restart from it once, on the beat.",
+          "Repeat a complete take on another day."
+        ],
+        "passCriteria": "Recognisable melody, supporting bass, a surviving pulse and no restarts. Small note errors are acceptable.",
+        "suggestedTempo": "Logged comfortable piece tempo",
+        "noteRate": "The arrangement’s written rhythm",
+        "repeatOnDifferentDays": true,
+        "optional": ""
+      },
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Hardest phrase",
+          "coordination": "Isolate the hardest shift and land cleanly.",
+          "picking": "Balance melody over quiet support in the phrase.",
+          "solo": "Finish the remaining 1–2-bar passage in layers.",
+          "ear": "Hum this phrase without guitar.",
+          "checkpoint": "Three relaxed loops of the hard phrase.",
+          "resourceIds": [
+            "first",
+            "amazing"
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Joins and ending",
+          "coordination": "Loop section joins and final chord movement.",
+          "picking": "Control thumb volume at each join; 3 minutes of monotonic root bass under the opening melody.",
+          "solo": "Practise the ending first, then reconnect sections.",
+          "ear": "Count rests and pickups from the lesson.",
+          "checkpoint": "Start from middle and ending on request.",
+          "resourceIds": [
+            "amazing"
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Full takes",
+          "coordination": "Brief repair of the weakest join.",
+          "picking": "Short benchmark; use remaining time for voice balance.",
+          "solo": "Alternate complete takes with repairs; do not restart full takes.",
+          "ear": "Listen back to locate one pulse interruption. “Home or not home” endings.",
+          "checkpoint": "One complete uninterrupted solo at clean tempo.",
+          "resourceIds": [
+            "amazing"
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Two dated recordings",
+          "coordination": "Warm up with shapes you need, not every chord.",
+          "picking": "Check balance in the opening and ending.",
+          "solo": "Record two whole takes on separate days.",
+          "ear": "Compare with Month 1 melody-only clip.",
+          "checkpoint": "Save your first best take and celebrate it.",
+          "resourceIds": [
+            "first",
+            "amazing"
+          ]
+        }
+      ],
+      "resourceIds": [
+        "first",
+        "technique",
+        "songs",
+        "amazing",
+        "songs"
+      ]
+    },
+    {
+      "month": 4,
+      "title": "A steadier thumb",
+      "focus": "Build alternating bass and begin a second simple solo.",
+      "coordination": "Hold Am/C/Em securely without excessive pressure. Learn the anchored Cadd9 (x32033), G (320033) and D shapes that keep fingers 3 and 4 still. Practise the new shapes in your second arrangement. Keep G and D changes in maintenance.",
+      "picking": "Combine the thumb you built in Months 2–3 with the fingers. Travis picking: p i p m p i p m, thumb on the beats, fingers on the “&”. Put a pinch on beat 1 of each bar. Then place one hammer-on or pull-off, and one slide, inside the pattern without moving the bass. Am/C strings 5–4; Em 6–4; D 4–3. Keep D thumb-only until routing is taught.",
+      "solo": "Finish Amazing Grace as your second complete solo, then start Freight Train (easy, SSF level 2), the classic Travis-picking piece. Use its rhythm, not the drill’s. Goal piece: secret base Stage 1, the chorus melody alone with capo 4 (about 8 minutes a day). Bonus: Carulli’s Waltz Op. 121 No. 1.",
+      "ear": "Scale degrees 1–7 in C and G (Functional Ear Trainer), in one position. On a C chord, identify C as the root, E as the third and G as the fifth. From this month, use Transcribe! or Moises to slow recordings.",
+      "milestone": {
+        "title": "Eight steady bars of alternating bass",
+        "testSteps": [
+          "Hold Am and play 5–4–5–4 with the thumb, one note per beat, for eight bars.",
+          "Add fingers on the “&”: p i p m for four bars each on Am, C and Em, with a pinch on beat 1.",
+          "Play one hammer-on inside the pattern in time.",
+          "Record bass-only and combined versions on two separate days."
+        ],
+        "passCriteria": "The bass stays even while treble notes and the hammer-on land on the “&”. Steady bass alone is still the core pass; the combined bars show the next step.",
+        "suggestedTempo": "Aim for 60–70 BPM; slower while learning",
+        "noteRate": "Bass quarters, treble on the “&” (an eighth-note texture)",
+        "repeatOnDifferentDays": true,
+        "optional": "One slide inside the pattern"
+      },
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Thumb alone",
+          "coordination": "Hold Am/C/Em cleanly; learn Freight Train’s first shapes.",
+          "picking": "Eight bass-only bars on Am, then C; Em 6/5 separately.",
+          "solo": "Freight Train melody phrase; the secret base chorus melody by ear.",
+          "ear": "Find C-major notes and the C root; Functional Ear Trainer degrees 1–7 in C.",
+          "checkpoint": "Bass keeps its spacing for eight bars.",
+          "resourceIds": [
+            "travis",
+            "songs"
+          ]
+        },
+        {
+          "week": 2,
+          "title": "One treble note",
+          "coordination": "Check Freight Train’s first chord join.",
+          "picking": "Am: thumb 5/4 on beats; add i on string 3 after beat 1 only.",
+          "solo": "Add alternating bass to Freight Train’s first phrase.",
+          "ear": "Name chord root/third/fifth in C.",
+          "checkpoint": "One treble note does not move the bass beat.",
+          "resourceIds": [
+            "folk",
+            "sb-chords"
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Add notes gradually",
+          "coordination": "Freight Train’s required shapes in time.",
+          "picking": "Am/C/Em: p i p m p i p m with a pinch on beat 1, adding one & note at a time.",
+          "solo": "Freight Train’s next phrase; keep Happy Birthday and Amazing Grace playable.",
+          "ear": "Identify the next phrase’s lowest note.",
+          "checkpoint": "Four combined bars; no rushing the & notes.",
+          "resourceIds": [
+            "folk",
+            "songs"
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Compare and record",
+          "coordination": "Repair one recurring bass-to-melody shift.",
+          "picking": "Record eight bass-only bars and four combined bars; place one hammer-on in the pattern.",
+          "solo": "Connect Freight Train’s phrases; play the secret base chorus melody in time.",
+          "ear": "Compare thumb timing in both recordings.",
+          "checkpoint": "Repeat monthly test on two days.",
+          "resourceIds": [
+            "folk",
+            "sb-chords"
+          ]
+        }
+      ],
+      "resourceIds": [
+        "folk",
+        "travis",
+        "songs",
+        "sb-chords",
+        "ear-trainer",
+        "transcribe"
+      ]
+    },
+    {
+      "month": 5,
+      "title": "Melody balance and expression",
+      "focus": "Finish Freight Train and Scarborough Fair with the melody easy to hear, and add bass to the secret base chorus.",
+      "coordination": "Use the actual new shapes in the second piece. Give small F xx3211 two minutes if required: index lightly covers strings 1/2 at fret 1; middle on string 3 fret 2; ring on string 4 fret 3; skip 5/6. New: 2-string partial barre (index across strings 1–2) and Bm7 x20202. Keep new shapes to 5–10 minutes a day in their first week.",
+      "picking": "Take eight bars. Play melody notes with rest stroke (a or m comes to rest on the next string) and accompaniment with free stroke, with a soft thumb. Compare soft and moderate versions at the same tempo. Keep 3 minutes of Travis picking, aiming for 70–80 BPM.",
+      "solo": "Finish Freight Train. Start Scarborough Fair (arrangement, SSF level 2): rest-stroke melody above a soft thumb. Shape each phrase towards one high note and relax at the end. Goal piece: secret base Stage 2, the chorus with root bass. Bonus: Für Elise.",
+      "ear": "Bass-root dictation: over a recording, find the lowest note of each chord on string 5 or 6. Speak sixteenths (“1-e-&-a”) while tapping the pulse.",
+      "milestone": {
+        "title": "Two solos and an audible melody",
+        "testSteps": [
+          "Play both complete simple solos at their comfortable tempos.",
+          "Record eight bars of the second piece with rest-stroke melody clearly above the bass.",
+          "Give the ending a deliberate rhythm and release rather than stopping abruptly.",
+          "Repeat the balance phrase and complete solo on a different day."
+        ],
+        "passCriteria": "Two maintained solos; melody consistently audible over accompaniment and pulse stable.",
+        "suggestedTempo": "Current clean piece tempos",
+        "noteRate": "Arrangement rhythm",
+        "repeatOnDifferentDays": true,
+        "optional": "Travis picking at 70–80 BPM"
+      },
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Melody alone",
+          "coordination": "Hardest second-piece shift with clean notes.",
+          "picking": "Melody alone at the desired volume, using rest stroke.",
+          "solo": "Finish the final missing melody phrase.",
+          "ear": "Hum the melody and tap its count.",
+          "checkpoint": "Full second-piece melody recognised.",
+          "resourceIds": [
+            "songs",
+            "reststroke"
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Quieter bass",
+          "coordination": "Check shape changes under melody notes.",
+          "picking": "Add p bass softly; compare the melody-only version.",
+          "solo": "Combine final phrase with sparse support.",
+          "ear": "Hear whether bass masks any melody note; find each chord’s bass root by ear.",
+          "checkpoint": "Eight bars with melody in front.",
+          "resourceIds": [
+            "songs",
+            "reststroke"
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Phrase shape and joins",
+          "coordination": "Loop the join most likely to pause; 2-string partial barre drill.",
+          "picking": "Soft and moderate phrase at identical BPM.",
+          "solo": "Connect all sections and practise the ending.",
+          "ear": "Choose the phrase’s strongest melody note.",
+          "checkpoint": "A complete second solo without restart.",
+          "resourceIds": [
+            "songs",
+            "sb-chords"
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Record both",
+          "coordination": "Warm up actual chords for each solo.",
+          "picking": "Balance check on eight bars.",
+          "solo": "Record both pieces; keep their tempos realistic.",
+          "ear": "Name a clearer note and one next repair.",
+          "checkpoint": "Two solos currently playable, with two dated balance tests.",
+          "resourceIds": [
+            "songs",
+            "reststroke"
+          ]
+        }
+      ],
+      "resourceIds": [
+        "songs",
+        "reststroke",
+        "sb-chords",
+        "technique"
+      ]
+    },
+    {
+      "month": 6,
+      "title": "First half-year performance",
+      "focus": "Consolidate two pieces and build recovery confidence.",
+      "coordination": "Choose the two transitions most likely to stop the pulse. Practise the approach and exit with bass-only or melody-only first; keep all needed chord fingers close to their next position.",
+      "picking": "Two new techniques, each capped at 5–10 minutes a day in their first week. (1) Backbeat slap: slap strings 3–5 on beats 2 and 4 over a held chord, with the bass on 1 and 3. (2) Natural harmonics at frets 12, 7 and 5 on all strings. Spend the rest of the block on melody balance in your two solos.",
+      "solo": "Rotate two finished pieces (choose from Happy Birthday, Amazing Grace, Freight Train and Scarborough Fair) for the half-year recording. Practise starts from a middle phrase and the ending. New practice piece: House of the Rising Sun (easy) for 6/8 arpeggios. Goal piece: secret base Stage 3, verse and chorus straight through. Bonus: What a Wonderful World.",
+      "ear": "Set the metronome to click on 2 and 4 only, starting at half tempo, and count the 1 and 3 yourself. Compare Month 1 with today: timing, clarity and melody. Treat each weekly recording as an audience.",
+      "milestone": {
+        "title": "Your two-piece recording",
+        "testSteps": [
+          "Write your two-piece set list and comfortable tempos.",
+          "Record both complete pieces consecutively; use the final 8–10 minutes of the music block if needed.",
+          "Keep going after small errors and recover at the next phrase.",
+          "Play 16 bars of backbeat slap on 2 and 4 against the metronome without drifting, and ring a harmonic at frets 12, 7 and 5 on every string.",
+          "Score timing, clarity, continuity, balance and relaxation; repeat on a different day."
+        ],
+        "passCriteria": "Both pieces finish without restarting; melody and bass remain recognisable. Compare evidence with Month 1.",
+        "suggestedTempo": "Clean performance tempos; backbeat at 70–80 BPM",
+        "noteRate": "Each piece’s own rhythm",
+        "repeatOnDifferentDays": true,
+        "optional": ""
+      },
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Find weak spots",
+          "coordination": "List the two worst joins from recordings.",
+          "picking": "Check which hand causes each pause; first backbeat slap on a held chord (5 minutes).",
+          "solo": "Start both solos from middle and ending.",
+          "ear": "Compare old and current clips.",
+          "checkpoint": "A precise two-item repair list.",
+          "resourceIds": [
+            "technique",
+            "percussion"
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Repair",
+          "coordination": "Loop each join with approach and exit.",
+          "picking": "Simplify to melody/bass; restore one note layer. Harmonics at 12 and 7.",
+          "solo": "Reconnect each repaired spot into half a piece.",
+          "ear": "Count the exact beat that used to fail.",
+          "checkpoint": "Three relaxed loops of each repair.",
+          "resourceIds": [
+            "folk",
+            "harmonics"
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Performance takes",
+          "coordination": "Brief shape checks; avoid tiring repetitions.",
+          "picking": "Balance opening and ending quietly.",
+          "solo": "Full two-piece take; no restarting.",
+          "ear": "Click on 2 and 4; listen once and choose one actionable fix.",
+          "checkpoint": "Two pieces in sequence with recovery.",
+          "resourceIds": [
+            "technique"
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Record and review",
+          "coordination": "Warm up necessary movements.",
+          "picking": "Current clean benchmark plus 16 bars of backbeat; log note rate.",
+          "solo": "Two separate-day recordings of the programme.",
+          "ear": "Write one change since Month 1 and one goal.",
+          "checkpoint": "Save Month 6 best take.",
+          "resourceIds": [
+            "jungstyle",
+            "oshio"
+          ]
+        }
+      ],
+      "resourceIds": [
+        "percussion",
+        "harmonics",
+        "songs",
+        "sb-chords",
+        "jungstyle"
+      ]
+    },
+    {
+      "month": 7,
+      "title": "Partial barres, ornaments and 流れ行く雲",
+      "focus": "Spanish Romance brings partial barres into real music, and 流れ行く雲 begins.",
+      "coordination": "Spanish Romance and 流れ行く雲 both need partial barres. Drill a 3–4-string partial barre, and the 流れ行く雲 fret-4 cluster (strings 6–5–4, with three fingertips or a small barre bent at the middle finger’s first joint), 5 minutes a day, relaxed.",
+      "picking": "Use one hammer-on, pull-off, slide or vibrato that the piece actually needs, first as a movement, then in a two-bar phrase. New groove step: the thumb slap replaces the bass on 2 and 4 under a simple melody.",
+      "solo": "Practice piece: Spanish Romance, part A (SSF level 2): triplet arpeggios with the melody on string 1. Goal piece: 流れ行く雲 Stage 1. Retune to C G D G A D, put the capo at 5 and learn the opening phrase. Retuning is part of the practice. Bonus: The Ash Grove. Keep your finished pieces in Wednesday maintenance.",
+      "ear": "Melody dictation: work out 2–4 bars by ear with Transcribe!, then check. Gap-click test: the metronome drops out for a bar; does your pulse land with it when it returns? Compare plain and ornamented phrases.",
+      "milestone": {
+        "title": "A clear ornament in context",
+        "testSteps": [
+          "Choose one two-bar phrase with a single ornament (hammer-on, pull-off, slide, vibrato or harmonic), from Spanish Romance, 流れ行く雲 or secret base.",
+          "Play the plain phrase once at a steady, comfortable count.",
+          "Play the ornamented version five times with clear notes and the same timing.",
+          "Connect it to the neighbouring bars; repeat this test another day."
+        ],
+        "passCriteria": "Clear repeated movement and stable rhythm in context. A clean simplified version is acceptable while the ornament develops.",
+        "suggestedTempo": "Slow clean phrase tempo",
+        "noteRate": "Lesson rhythm",
+        "repeatOnDifferentDays": true,
+        "optional": "Two bars of thumb slap replacing the bass under a melody"
+      },
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Learn the movement",
+          "coordination": "Partial barre and fret-4 cluster drills; one ornament movement.",
+          "picking": "Isolate one hammer-on/pull-off/slide for a few minutes.",
+          "solo": "Spanish Romance first phrase; retune and hear the 流れ行く雲 opening.",
+          "ear": "Compare plain and decorated notes.",
+          "checkpoint": "Movement makes a clear note without rushing.",
+          "resourceIds": [
+            "songs",
+            "kumo-score"
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Two-bar loop",
+          "coordination": "Check the ornament’s approach fingering.",
+          "picking": "Ornament inside a two-bar loop at clean tempo.",
+          "solo": "Add sparse bass to the same two bars.",
+          "ear": "Count its note durations aloud.",
+          "checkpoint": "Five clear loops with stable count.",
+          "resourceIds": [
+            "songs",
+            "kumo-notes"
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Reconnect",
+          "coordination": "Practise approach and exit of ornamented phrase.",
+          "picking": "Balance melody so decoration is not louder than tune.",
+          "solo": "Spanish Romance part A connected; the 流れ行く雲 opening phrase with bass; revisit an older piece.",
+          "ear": "Work out a 2–4 bar third-piece fragment by ear, slowed down.",
+          "checkpoint": "Phrase flows into the next bar.",
+          "resourceIds": [
+            "songs",
+            "kumo-score"
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Record a longer section",
+          "coordination": "Repair the weakest Spanish Romance join.",
+          "picking": "Compare plain and ornamented takes; two bars of thumb slap replacing the bass.",
+          "solo": "Record Spanish Romance part A and the 流れ行く雲 opening.",
+          "ear": "Identify one ornament that improves the phrase.",
+          "checkpoint": "Two dated contextual ornament tests.",
+          "resourceIds": [
+            "songs",
+            "jungstyle"
+          ]
+        }
+      ],
+      "resourceIds": [
+        "songs",
+        "kumo-score",
+        "kumo-notes",
+        "jungstyle",
+        "transcribe"
+      ]
+    },
+    {
+      "month": 8,
+      "title": "Your own secret base arrangement",
+      "focus": "Turn secret base into your own full arrangement, with Moon River as your model.",
+      "coordination": "Use familiar C/Am/Em/G/D shapes that support your chosen tune. Find the melody fingering first, then adjust a chord only if a melody note needs space. Start with an 8-bar target. Full F 133211 in short drills (5–10 minutes, first week capped), only where it helps.",
+      "picking": "Thumb plays a chord root at a chord change; fingers play melody on its actual string. On strings 3/2/1 try i/m/a, but choose comfort and clear sound. Pluck simultaneous bass and melody together. Add inner notes only after the pulse is secure. Your arrangement may use one colour element: a thumb slap on 2 and 4 or a harmonic ending.",
+      "solo": "Model piece: Moon River (SSF level 3). Notice how the melody sits on top of the chord shapes. Goal piece: secret base Stage 4. Use the arranging recipe on the whole song: (1) sing the hook; (2) keep capo 4 with C shapes; (3) write chord numbers; (4) root bass, then root and fifth; (5) melody on top; (6) fill only where the melody holds; (7) intro and outro from the hook. Add a slap on 2 and 4 in the last chorus and a harmonic ending. Also 流れ行く雲 Stage 2, the first half. Bonus: Danny Boy.",
+      "ear": "Hear songs in numbers: most choruses use 1, 4, 5 and 6m. In C that is C, F, G and Am; in G it is G, C, D and Em. Name each phrase’s chord as a number, then find its root, third and fifth.",
+      "milestone": {
+        "title": "Your own secret base arrangement",
+        "testSteps": [
+          "Play your secret base arrangement (verse, chorus, intro and outro), written as TAB + rhythm + chord numbers.",
+          "The melody stays on top; the bass follows the chord numbers.",
+          "Include one colour element: a slap on 2 and 4 in the last chorus, or a harmonic ending.",
+          "Record the whole arrangement twice on different days."
+        ],
+        "passCriteria": "A coherent, repeatable melody-and-bass arrangement. Sparse texture is enough; no extra fill or speed requirement.",
+        "suggestedTempo": "Comfortable melody tempo",
+        "noteRate": "Tune rhythm",
+        "repeatOnDifferentDays": true,
+        "optional": ""
+      },
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Melody",
+          "coordination": "Choose comfortable melody fingering for 8 bars.",
+          "picking": "Melody-only with its intended rhythm.",
+          "solo": "Learn Moon River’s first phrase; sing the secret base hook and plan its sections.",
+          "ear": "Identify the key (C, G or D) and the tune’s ending note; sing the hook first.",
+          "checkpoint": "Recognisable 8-bar melody.",
+          "resourceIds": [
+            "songs",
+            "sb-chords"
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Chords and bass",
+          "coordination": "Check two likely chord shapes and transitions.",
+          "picking": "Thumb root at chord changes, bass-only.",
+          "solo": "Match simple chords to each phrase.",
+          "ear": "Write chord numbers for each phrase; name root/third/fifth.",
+          "checkpoint": "Explain bass and chord choices.",
+          "resourceIds": [
+            "numbers",
+            "theory"
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Combine",
+          "coordination": "Practise melody finger arrival with chord shape.",
+          "picking": "Simultaneous bass/melody then sparse filling only.",
+          "solo": "Combine your secret base arrangement 1–2 bars at a time; 流れ行く雲 first half.",
+          "ear": "Listen for melody hidden by bass.",
+          "checkpoint": "Eight combined bars at clean tempo.",
+          "resourceIds": [
+            "arranging",
+            "kumo-score"
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Refine and record",
+          "coordination": "Repair one arrangement join.",
+          "picking": "Melody balance at unchanged tempo.",
+          "solo": "Record the full 8–16 bar version as TAB + rhythm + numbers; retain older solos.",
+          "ear": "Explain one chord choice and one revision.",
+          "checkpoint": "Two dated personal-arrangement takes.",
+          "resourceIds": [
+            "theory"
+          ]
+        }
+      ],
+      "resourceIds": [
+        "arranging",
+        "numbers",
+        "songs",
+        "sb-chords",
+        "kumo-score"
+      ]
+    },
+    {
+      "month": 9,
+      "title": "Finish 流れ行く雲; open D begins",
+      "focus": "Finish 流れ行く雲, colour with Lágrima, and open the door to 奇跡の山.",
+      "coordination": "Repair the third solo’s final unfinished shape or join. New: drop D. Tune string 6 down to D and play a short phrase with a low D bass. Keep familiar pieces clean.",
+      "picking": "Build an eight-bar soft-to-moderate dynamic plan. Then the groove step: bass on 1, slap on 2, finger flick on “2&”, bass on 3, slap on 4. This prepares you for Oshio’s nail attack. Add colour one device at a time (a bass run, a hammer-on, a slap on 2 and 4, a harmonic, an add9 or sus shape), and record plain and coloured versions to compare.",
+      "solo": "Goal piece: 流れ行く雲 Stage 3, the whole piece at ♩≈50. Practice piece: Lágrima (SSF level 3) for shifts up the neck and minor/major contrast. Goal piece: 奇跡の山 Stage 1. Retune to open D (D A D F♯ A D, capo 2) and learn the main theme’s melody alone; drop D this month makes the tuning feel familiar. Bonus: Dust in the Wind (intro and verse).",
+      "ear": "Line the slap up with a click on 2 and 4. Transcribe 4–8 bars of a Jung or Oshio excerpt with Transcribe!: melody first, then bass, then rhythm. Pick one expressive idea to imitate slowly.",
+      "milestone": {
+        "title": "Three-piece progress + planned dynamics",
+        "testSteps": [
+          "Play your secret base arrangement, one finished practice piece and the full 流れ行く雲.",
+          "Record eight bars with a planned dynamic change plus one percussive or harmonic element at a stable tempo.",
+          "Listen: melody should remain clear when the phrase becomes softer.",
+          "Repeat the dynamic test on a different day."
+        ],
+        "passCriteria": "Three complete simple solos, or two polished solos plus a substantial third; deliberate expression and stable rhythm.",
+        "suggestedTempo": "Current clean piece tempo",
+        "noteRate": "Arrangement rhythm",
+        "repeatOnDifferentDays": true,
+        "optional": "A 4-bar drop-D phrase"
+      },
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Finish 流れ行く雲",
+          "coordination": "Repair the final 流れ行く雲 join.",
+          "picking": "Balance the last phrase of 流れ行く雲.",
+          "solo": "流れ行く雲 start to finish, slowly.",
+          "ear": "Hum the whole 流れ行く雲 melody.",
+          "checkpoint": "Whole third solo, or substantial complete section.",
+          "resourceIds": [
+            "kumo-score"
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Dynamics",
+          "coordination": "Keep shifts easy at unchanged tempo.",
+          "picking": "Eight-bar soft→moderate→soft plan.",
+          "solo": "Apply dynamic shape to a learned phrase.",
+          "ear": "Choose and hear its peak melody note.",
+          "checkpoint": "Recorded phrase shows a deliberate volume change.",
+          "resourceIds": [
+            "technique"
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Colour one device at a time",
+          "coordination": "Drop D: retune string 6 and play a short low-D phrase.",
+          "picking": "Finger-flick and backbeat groove; add one colour device and record plain vs coloured.",
+          "solo": "Keep a colour only if the melody stays clear.",
+          "ear": "Transcribe 4–8 bars of a hero performance, slowed.",
+          "checkpoint": "A stable melody matters more than the effect.",
+          "resourceIds": [
+            "percussion",
+            "transcribe",
+            "jungstyle"
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Record and maintain",
+          "coordination": "Brief checks for all maintained solos.",
+          "picking": "Record the dynamic phrase.",
+          "solo": "Rotate your pieces; retune to open D and learn the 奇跡の山 theme melody.",
+          "ear": "Compare Month 6 and Month 9.",
+          "checkpoint": "Save Month 9 best take; two dated dynamics tests.",
+          "resourceIds": [
+            "yama-score",
+            "yama-live"
+          ]
+        }
+      ],
+      "resourceIds": [
+        "kumo-score",
+        "songs",
+        "yama-score",
+        "yama-live",
+        "percussion",
+        "transcribe"
+      ]
+    },
+    {
+      "month": 10,
+      "title": "奇跡の山: your dream theme",
+      "focus": "奇跡の山 is your dream piece: the main theme with bass.",
+      "coordination": "Keep the hardest join of a maintained piece as coordination work. For 奇跡の山, learn each open-D shape note by note; simplify a reach rather than forcing it.",
+      "picking": "Main task: clean bass and melody balance in a maintained solo. The dream experiment gets about five minutes per session: melody alone, then sparse thumb bass, then the excerpt’s percussion in simplified form (for example, a slap on 2 and 4). Leave fast fills and harp harmonics for year two; a single harp-harmonic chime is an optional taste.",
+      "solo": "Goal piece: 奇跡の山 Stage 2 (open D, capo 2), the main theme with bass, 8–16 bars, at 70–90% of your target tempo, with a small vibrato on long notes. Goal piece: 流れ行く雲 Stage 4, flowing at ♩=55–63. Bonus practice pieces: Sor’s Andante Op. 35 No. 1 (two independent voices) and The Skye Boat Song. Oshio pieces (Sakura Saku Koro, Twilight) can be next year’s dream.",
+      "ear": "Transcribe the excerpt’s motif and label its chords with numbers. Play along with the original recording at 70–90% speed with Transcribe!. Describe what makes it appealing: tune, bass motion, rhythm or phrasing.",
+      "milestone": {
+        "title": "The 奇跡の山 theme, with bass",
+        "testSteps": [
+          "Tune to open D with capo 2.",
+          "Play the main theme with bass, 8–16 bars, at a logged tempo.",
+          "Keep secret base and 流れ行く雲 playable.",
+          "Record the theme on two separate days and compare with the Month 9 melody-only take."
+        ],
+        "passCriteria": "The theme is recognisable with a steady pulse and supporting bass. Slow is fine; stretches can stay simplified.",
+        "suggestedTempo": "Clean core tempo; dream excerpt at 70–90% of the recording",
+        "noteRate": "The selected score’s meter",
+        "repeatOnDifferentDays": true,
+        "optional": "Recognisable simplified 4–8-bar dream excerpt"
+      },
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Map the theme",
+          "coordination": "Choose core repair; inspect dream shapes and demands.",
+          "picking": "Normal voice balance in core repertoire.",
+          "solo": "Map 奇跡の山’s sections; learn the theme’s first phrase with bass.",
+          "ear": "Hum dream melody and identify its count.",
+          "checkpoint": "You know where the theme starts and ends.",
+          "resourceIds": [
+            "yama-score",
+            "yama-live"
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Dream melody",
+          "coordination": "Core transition in time; optional dream melody fingering.",
+          "picking": "Melody-only for the dream passage.",
+          "solo": "Keep core solo block; use five minutes for dream melody.",
+          "ear": "Find first dream motif by ear then check score.",
+          "checkpoint": "Recognisable slow dream melody if attempted.",
+          "resourceIds": [
+            "yama-score",
+            "yama-lesson"
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Sparse bass",
+          "coordination": "Repair core join; check only necessary excerpt shapes.",
+          "picking": "Add p bass at dream chord starts, then the simplified slap if it fits.",
+          "solo": "Dream 1–2-bar loops inside the five-minute cap.",
+          "ear": "Listen for core and dream melody clarity.",
+          "checkpoint": "Core repertoire maintained; sparse dream support if ready.",
+          "resourceIds": [
+            "yama-score",
+            "yama-live"
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Record and decide",
+          "coordination": "Core transition demonstration.",
+          "picking": "Compare repaired core phrase with early-month take.",
+          "solo": "Full core piece; optional reduced dream excerpt recording.",
+          "ear": "Decide whether excerpt stays or waits.",
+          "checkpoint": "Two dated core tests; optional dream clip.",
+          "resourceIds": [
+            "yama-score",
+            "yama-live"
+          ]
+        }
+      ],
+      "resourceIds": [
+        "yama-score",
+        "yama-lesson",
+        "yama-live",
+        "transcribe",
+        "kishibe"
+      ]
+    },
+    {
+      "month": 11,
+      "title": "Prepare your short set",
+      "focus": "Choose three favourites and play them consecutively.",
+      "coordination": "Rotate each piece’s start, hardest join, middle-entry point and final shape. Practise the actual movement without rushing. A fourth simple solo is optional only if the existing three are reliable. Use full F or Bm in repertoire only if a piece needs it.",
+      "picking": "Check melody balance in the opening and ending of each piece. Keep bass soft and steady. Use each score’s rhythm rather than one generic drill across the set.",
+      "solo": "Your set: secret base (your arrangement), 流れ行く雲 and 奇跡の山 (the theme, or further if ready). Keep one favourite practice piece as a backup. Plan the retuning between pieces: standard → C G D G A D → open D. Memorise by landing spots, 3–5 in each piece, practised in random order. Do one no-stop run a day, one after a 60-second jog, and one for a listener. Goal piece: 奇跡の山 Stage 3, the stretch section in 5–10 minute drills.",
+      "ear": "Hear each piece in your head (audiation) away from the guitar, from one landing spot to the next. Listen to a full-set take once and choose the weakest musical moment: timing, clarity, continuity or balance.",
+      "milestone": {
+        "title": "A recoverable three-piece set",
+        "testSteps": [
+          "Write the set list, the version of each arrangement and clean working tempos.",
+          "Play the three chosen pieces in order with a comfortable reset between them.",
+          "Continue through small errors; recover at the next beat or phrase.",
+          "Recovery test: after a slip, re-enter at the next landing spot on the beat. Start one piece from a middle landing spot, then repeat the set on a different day."
+        ],
+        "passCriteria": "Complete chosen set with no restarts, clear melody and recovery at a landing spot after slips. Programme length depends on the arrangements.",
+        "suggestedTempo": "Each piece’s clean working tempo",
+        "noteRate": "Each piece’s own rhythm",
+        "repeatOnDifferentDays": true,
+        "optional": ""
+      },
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Choose the set",
+          "coordination": "Identify one weak spot for each piece.",
+          "picking": "Check melody balance in first phrases.",
+          "solo": "Choose order; mark 3–5 landing spots per piece; run starts and endings.",
+          "ear": "Listen to each piece and write its tempo.",
+          "checkpoint": "Written three-piece set list and repair list.",
+          "resourceIds": [
+            "songs"
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Repair weak spots",
+          "coordination": "Loop preceding/difficult/following bars of each weak spot.",
+          "picking": "Restore layers after bass-only or melody-only repair.",
+          "solo": "Reconnect repairs; practise random landing-spot starts.",
+          "ear": "Count the exact difficult beat.",
+          "checkpoint": "Three clean loops of each set repair.",
+          "resourceIds": [
+            "technique"
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Run-throughs",
+          "coordination": "Gentle warmup for actual movements.",
+          "picking": "Quick balance check without fatigue.",
+          "solo": "Consecutive set; keep going after slips. One run after a 60-second jog.",
+          "ear": "Choose one fix from the recording.",
+          "checkpoint": "One complete set with recovery.",
+          "resourceIds": [
+            "technique"
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Private performance",
+          "coordination": "Starts, endings and middle-entry checks.",
+          "picking": "Stable tone at clean tempos.",
+          "solo": "Play the set for a listener or record it; repeat another day.",
+          "ear": "Describe one expressive choice in each piece.",
+          "checkpoint": "Two dated set attempts; maintained repertoire.",
+          "resourceIds": [
+            "sungha",
+            "oshio"
+          ]
+        }
+      ],
+      "resourceIds": [
+        "yama-score",
+        "kumo-score",
+        "sb-chords",
+        "technique"
+      ]
+    },
+    {
+      "month": 12,
+      "title": "Record and choose your next direction",
+      "focus": "A personal recording and evidence of your year’s progress.",
+      "coordination": "Refine the set’s hardest movements; use the Month 1 chord benchmark at its original recorded tempo for comparison. Recheck small shapes gently rather than adding demanding new ones.",
+      "picking": "Refine melody and supporting voices in eight-bar phrases. Re-test every technique strand at a fair comparison: Pattern A at its original tempo, Pattern B, Travis picking (aim 80–90 BPM), 16 bars of backbeat slap, and harmonics at 12/7/5.",
+      "solo": "Polish the three-piece set and record it. Goal piece: 奇跡の山 Stage 4, the whole piece slowly, with the neck-bend wave and muting. Optional: secret base Stage 5 (a published version). Recording: phone 6–18 inches from the 12th–14th fret, away from the soundhole, with a clipping test and three takes. Then play through your practice-piece collection for fun and count how many you know.",
+      "ear": "Compare Month 1 with Month 12 recordings. Write three musical goals for year two. Candidates: harp harmonics, Oshio’s nail attack, tapping, a CGDGBD or DADGAD piece, or a longer dream excerpt.",
+      "milestone": {
+        "title": "Your year-one recording",
+        "testSteps": [
+          "Re-test the techniques: Pattern A at its Month 1 tempo, Pattern B, Travis picking, backbeat slap and harmonics. Log each tempo.",
+          "Record your set: secret base (your arrangement), 流れ行く雲 and 奇跡の山.",
+          "Check which 3–5 simple complete arrangements you can still play now.",
+          "Save a best take and repeat the musical programme on another day; write your next three goals."
+        ],
+        "passCriteria": "Maintained repertoire, complete mini-set without restarts, clear melody and a short personal arrangement. Extend consolidation if this needs more time.",
+        "suggestedTempo": "Established clean tempos",
+        "noteRate": "Each piece’s rhythm; original Pattern A quarter notes",
+        "repeatOnDifferentDays": true,
+        "optional": "An 8–12 minute programme and dream excerpt are optional stretches"
+      },
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Refine tone",
+          "coordination": "Repair final set joins gently.",
+          "picking": "Melody-forward balance in eight-bar phrases.",
+          "solo": "Polish set and personal arrangement.",
+          "ear": "Name phrase shapes you want to hear.",
+          "checkpoint": "Reliable music with deliberate tone.",
+          "resourceIds": [
+            "technique"
+          ]
+        },
+        {
+          "week": 2,
+          "title": "Practice recordings",
+          "coordination": "Check starts and endings.",
+          "picking": "Technique re-test table: Pattern A, B, Travis, backbeat, harmonics; log tempo and note rate.",
+          "solo": "Record practice set; choose one repair only.",
+          "ear": "Score all five dimensions and listen once.",
+          "checkpoint": "A complete practice programme.",
+          "resourceIds": [
+            "technique"
+          ]
+        },
+        {
+          "week": 3,
+          "title": "Final set",
+          "coordination": "Warm up required shifts; set up the phone at the 12th–14th fret.",
+          "picking": "Brief voice-balance check.",
+          "solo": "Record final mini-set and personal arrangement; repeat on another day.",
+          "ear": "Choose best take for musical continuity.",
+          "checkpoint": "Saved final recordings and pass dates.",
+          "resourceIds": [
+            "recording",
+            "sungha",
+            "oshio"
+          ]
+        },
+        {
+          "week": 4,
+          "title": "Compare and look ahead",
+          "coordination": "Repeat original Month 1 exercise at its old tempo.",
+          "picking": "Compare clean tone and steady picking with baseline.",
+          "solo": "Play maintained favourites for enjoyment.",
+          "ear": "Hear old/new clips; write three next-year goals.",
+          "checkpoint": "Name three concrete gains and celebrate the year.",
+          "resourceIds": [
+            "sungha",
+            "oshio"
+          ]
+        }
+      ],
+      "resourceIds": [
+        "recording",
+        "yama-score",
+        "sb-solo",
+        "kishibe"
+      ]
+    }
+  ],
+  "first28Days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Your starting point",
+      "minutes": 50,
+      "coordination": "Record 30 seconds of current C–Am changes before polishing. Form C, Am and Em; pluck intended strings one by one.",
+      "picking": "Pattern A on Em: p6 i3 m2 a1, one note per click at 40–50 BPM; count 1 2 3 4.",
+      "solo": "Listen and hum Happy Birthday from the lesson. Find only its first 3–5 melody notes.",
+      "ear": "Learn string 1 is thinnest and string 6 thickest; read x/0/fret numbers in a chord diagram. Setup check: measure the string height at fret 12. Above about 3 mm on the low E, get a professional setup; light strings help. Then listen once to your three goal pieces, secret base, 流れ行く雲 and 奇跡の山, which is where this year leads.",
+      "checkpoint": "Save the baseline, then name tomorrow’s one small task.",
+      "resourceIds": [
+        "before",
+        "basics",
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": true
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "C to Am, first phrase",
+      "minutes": 50,
+      "coordination": "Change C–Am slowly five times; preserve useful shared fingers. Check all intended strings before repeating. Sore fingertips are normal for 1–2 weeks. Until Day 14, split the session into two if they are tender.",
+      "picking": "Pattern A on Em, same comfortable tempo; let notes ring without rushing the last note.",
+      "solo": "Learn the first short melody phrase. Count the lesson rhythm; use 1 2 3 if it is 3/4.",
+      "ear": "Hum that phrase without guitar, then find the notes again.",
+      "checkpoint": "Three recognisable melody loops at a relaxed tempo.",
+      "resourceIds": [
+        "basics",
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Am to Em",
+      "minutes": 50,
+      "coordination": "Practise Am–Em slowly. Check clean landing of each fretting finger rather than counting fast changes.",
+      "picking": "Pattern A on Am: p5 i3 m2 a1 at 40–50 BPM, quarter notes.",
+      "solo": "Repeat the first phrase in 1–2-bar loops. Keep it melody-only.",
+      "ear": "Say the phrase’s count while tapping the pulse.",
+      "checkpoint": "One melody phrase with clear notes and a surviving count.",
+      "resourceIds": [
+        "basics",
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Learn the next phrase",
+      "minutes": 50,
+      "coordination": "C–Am, then Am–Em, five slow checked changes of each.",
+      "picking": "Pattern A on C: p5 i3 m2 a1, one note on each click.",
+      "solo": "Learn the next melody phrase. Loop the last bar of phrase 1 and first bar of phrase 2 to practise their join.",
+      "ear": "Hum the two phrases, noticing the join’s rhythm.",
+      "checkpoint": "Both phrases connect at a slow steady tempo.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Changes on the beat",
+      "minutes": 50,
+      "coordination": "C–Am–Em–Am: pluck just bass on beat 1 of each four-beat bar. Use bass 5/5/6/5; count 1 2 3 4.",
+      "picking": "Continue bass-only changes first; use Pattern A on a held Em during remaining time.",
+      "solo": "Link learned melody phrases. Slow down if the join interrupts the tune’s beat.",
+      "ear": "Identify the exact beat that feels difficult; count it aloud.",
+      "checkpoint": "Four bass-only bars in time, plus connected melody phrases.",
+      "resourceIds": [
+        "basics",
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Your first recording",
+      "minutes": 50,
+      "coordination": "Check C–Am–Em–Am landings without excess grip.",
+      "picking": "Try Pattern A over C–Am–Em–Am, one chord per four beats, using bass 5/5/6/5.",
+      "solo": "Record 20–30 seconds of melody without restarting. During repair work afterwards, fix only one unclear join.",
+      "ear": "Listen once: note rhythm and note clarity.",
+      "checkpoint": "Save the clip and log one audible win and one repair.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": true
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Easy review",
+      "minutes": 20,
+      "coordination": "20-minute day: tune 2, short baseline benchmark 3; relaxed chord checks only.",
+      "picking": "Use a familiar held-chord Pattern A within the three-minute benchmark.",
+      "solo": "Play learned melody phrases for 7 minutes; free play for 5. No new material.",
+      "ear": "Listen/log for 3 minutes. Compare a small moment with Day 1.",
+      "checkpoint": "Name one improvement; you have a recognisable melody phrase.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a"
+      ],
+      "isReview": true,
+      "recordingSuggested": false
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Add G",
+      "minutes": 50,
+      "coordination": "Learn G 320003 slowly (or the course fingering). Pluck intended strings separately. Keep C/Am/Em checks brief.",
+      "picking": "Pattern A on G: p6 i3 m2 a1 at existing clean tempo.",
+      "solo": "Finish the tune’s melody a short phrase at a time. If it needs longer, continue the next day.",
+      "ear": "Hum the next phrase before finding its notes. Tip: play the tonic chord (C) before you hum-and-find, so you hear the note against home.",
+      "checkpoint": "G has clean notes; one new melody phrase learned.",
+      "resourceIds": [
+        "basics",
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "C to G",
+      "minutes": 50,
+      "coordination": "Change C–G slowly; then bass-only one chord every four beats, strings 5 and 6.",
+      "picking": "Pattern A on held C and G; add the change only if bass-only is steady.",
+      "solo": "Practise the awkward melody bar with its preceding bar; three relaxed loops before reconnecting.",
+      "ear": "Count the awkward bar from the lesson audio.",
+      "checkpoint": "C–G begins to land in time; melody bottleneck is identified.",
+      "resourceIds": [
+        "basics",
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Refresh D",
+      "minutes": 50,
+      "coordination": "Check D xx0232; practise G–D slowly and exclude strings 5/6 on D.",
+      "picking": "Pattern A on D: p4 i3 m2 a1; count four quarter-note clicks.",
+      "solo": "Play the full melody at a comfortable tempo. Keep going through small slips.",
+      "ear": "Hum the whole tune, then identify its ending rhythm.",
+      "checkpoint": "A full melody-only take at your current tempo.",
+      "resourceIds": [
+        "basics",
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Meet the bass line",
+      "minutes": 50,
+      "coordination": "C–Am–G–D: bass on beat 1 of every four-beat drill bar, strings 5/5/6/4.",
+      "picking": "Bass-only drill in time, then held-chord Pattern A; song bass follows the song’s actual meter.",
+      "solo": "Identify the first phrase’s bass notes in the lesson. Practise that phrase’s bass alone, one note at bar/chord starts.",
+      "ear": "Name the chord supporting each bass note you learn.",
+      "checkpoint": "First phrase bass-only stays in the tune’s rhythm.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Keep both layers fluent",
+      "minutes": 50,
+      "coordination": "C–Am and G–D: five slow checks, then change on time.",
+      "picking": "Pattern A with C–Am, then G–D, one chord per four-beat bar.",
+      "solo": "Continue the tune’s bass alone. Spend half the block retaining the fluent melody-only version.",
+      "ear": "Hear bass separately in the lesson, then hum melody over your tapped count.",
+      "checkpoint": "Melody and bass each work separately.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Eight-bar picking check",
+      "minutes": 50,
+      "coordination": "Brief checks of whichever pair interrupts the count.",
+      "picking": "Try eight bars of Pattern A with familiar chords at your actual clean BPM, one chord per four beats.",
+      "solo": "Record melody alone plus a separate bass phrase. No need to combine yet.",
+      "ear": "Listen once and choose next week’s hardest melody/bass bar.",
+      "checkpoint": "Save the two-layer evidence and one precise next task.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": true
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Compare your movement",
+      "minutes": 20,
+      "coordination": "20-minute review: tune 2, benchmark 3, favourite music 7, listening/log 3, free play 5.",
+      "picking": "Repeat a comfortable Pattern A; compare movement with Day 1.",
+      "solo": "Play the learned melody and separate bass phrase; add no new material.",
+      "ear": "Name a change in clarity, movement or count.",
+      "checkpoint": "Save a Week 2 win even if the melody needs another week.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a"
+      ],
+      "isReview": true,
+      "recordingSuggested": false
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Combine one short phrase",
+      "minutes": 50,
+      "coordination": "Choose the two weakest chord pairs from your log. Five slow checked changes, then bass-only in time.",
+      "picking": "Pattern A at your established clean tempo, quarter notes. New: pinch. Play p and a together on beat 1 (bass + string 1), then i m a on beats 2–4. One sound, not two.",
+      "solo": "Combine melody with one bass note at the start of a short phrase. Loop only 1–2 bars; pluck simultaneous notes together.",
+      "ear": "Listen to whether the tune remains obvious after adding bass.",
+      "checkpoint": "First combined phrase is recognisable.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change",
+        "pinch"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "A small F check",
+      "minutes": 50,
+      "coordination": "For 2 minutes check small F xx3211: mini-barre strings 1/2 fret 1, middle 3 fret 2, ring 4 fret 3; skip 5/6. If difficult, stop and return to familiar changes.",
+      "picking": "Pattern A on a familiar chord; F is optional and does not need to enter the tune.",
+      "solo": "Loop first combined 1–2 bars. If melody rhythm fails, return to melody alone, then restore one bass note.",
+      "ear": "Count the melody’s rhythm independently of the four-beat drill.",
+      "checkpoint": "Three relaxed combined loops; no requirement to master F.",
+      "resourceIds": [
+        "basics",
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Next combined phrase",
+      "minutes": 50,
+      "coordination": "C–Am–Em–G: check weak changes before the full drill.",
+      "picking": "Pattern A over C–Am–Em–G, bass 5/5/6/6, one chord each four beats. Put a pinch on beat 1 of each bar if it stays together.",
+      "solo": "Learn the next combined phrase, melody then bass then together. Keep bass only at phrase/bar/chord starts.",
+      "ear": "Name the new phrase’s supporting chord roots.",
+      "checkpoint": "A second sparse melody-plus-bass phrase.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Practise the exact join",
+      "minutes": 50,
+      "coordination": "Practise the hardest melody fingering without accompaniment; use the bar before it as an approach.",
+      "picking": "Held-chord Pattern A first; then gentle melody/bass balance in the hard bar.",
+      "solo": "Join the first two combined phrases. Loop their exact border with a bar on each side.",
+      "ear": "Hum through the join; note the beat where the new phrase begins.",
+      "checkpoint": "Two combined phrases connect without a restart.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Use the real trouble spot",
+      "minutes": 50,
+      "coordination": "Practise the actual chord pair causing trouble in the tune. Slow checked changes, bass-only pulse, then restore the melody.",
+      "picking": "Pattern A at clean BPM; avoid adding speed during a difficult solo change.",
+      "solo": "Add a third combined phrase if the first two are reliable. Otherwise strengthen those two and their join.",
+      "ear": "Listen to the new or repaired phrase and name the melody’s loudest note.",
+      "checkpoint": "One measured repair or a third phrase; either is progress.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Hear your first solo sound",
+      "minutes": 50,
+      "coordination": "Repeat last week’s benchmark shapes gently.",
+      "picking": "Record the same Pattern A benchmark and its BPM/note rate for a fair comparison.",
+      "solo": "Record 20–45 seconds of melody plus bass; keep the pulse and recover after slips.",
+      "ear": "Listen for a clear tune in front of bass.",
+      "checkpoint": "Save the combined clip; name one audible improvement.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": true
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Enjoy what you can play",
+      "minutes": 20,
+      "coordination": "20-minute easy review with relaxed familiar chord checks.",
+      "picking": "Three-minute familiar benchmark, no new technique.",
+      "solo": "Play the full melody-only tune, then learned combined phrases within 7-minute music block; free play 5.",
+      "ear": "Three minutes listening/log: name one audible improvement.",
+      "checkpoint": "The tune and bass support can be heard in a short phrase.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a"
+      ],
+      "isReview": true,
+      "recordingSuggested": false
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Final phrase or reinforcement",
+      "minutes": 50,
+      "coordination": "Weakest pair: one bass pluck each four beats, then clean timed changes.",
+      "picking": "Pattern A at your reliable BPM; one note per click.",
+      "solo": "Learn the final sparse-bass phrase if ready, or reinforce existing phrases. Keep notes sparse.",
+      "ear": "Hum the ending before playing it.",
+      "checkpoint": "A stronger ending or a stronger existing section.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Middle and ending first",
+      "minutes": 50,
+      "coordination": "Check F briefly only if comfortable. Return to shapes actually needed in your tune.",
+      "picking": "If Pattern A is easy, try B on Em only: p6 i3 m2 a1 twice, count 1 & 2 & 3 & 4 & at 40–50 BPM. Otherwise repeat A.",
+      "solo": "Practise the tune’s middle and ending before the opening. Start from a place you usually avoid.",
+      "ear": "Say the difference: A one note per click; B two notes per click.",
+      "checkpoint": "A reliable middle/ending start; B is optional today.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Sixteen bars",
+      "minutes": 50,
+      "coordination": "Check C–Am–Em–G weak movement slowly.",
+      "picking": "Pattern A for 16 bars, sequence C–Am–Em–G repeated four times, one chord each four-beat bar; use bass 5/5/6/6. Add a pinch on each chord’s beat 1 when steady.",
+      "solo": "Join all learned solo phrases slowly. Add no extra fill notes.",
+      "ear": "Tap and count the song’s own meter through a join.",
+      "checkpoint": "Sixteen-bar benchmark attempt and connected learned music.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Make the tune stand out",
+      "minutes": 50,
+      "coordination": "Repair one change with approach and exit; aim for three relaxed loops.",
+      "picking": "Repeat the full 16-bar Pattern A drill at the clean tempo.",
+      "solo": "Play melody slightly louder, thumb bass more gently. Compare melody-only with the combined version.",
+      "ear": "Listen for the melody note that gets covered by bass.",
+      "checkpoint": "Clearer melody over the same accompaniment.",
+      "resourceIds": [
+        "first",
+        "technique"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": false
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Rehearse your milestone",
+      "minutes": 50,
+      "coordination": "Use familiar chord checks; then the specific Month 1 benchmark changes.",
+      "picking": "Rehearse 16 bars of A at comfortable BPM. Aim for 50 only if controlled; log actual tempo.",
+      "solo": "One uninterrupted take of learned solo section. Recover at next beat/phrase after a mistake.",
+      "ear": "Name one thing to keep steady in tomorrow’s recording. Finish on 2–3 correct repetitions, not on a mistake.",
+      "checkpoint": "First dated technical demonstration if the count holds.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": true
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Record your Month 1 evidence",
+      "minutes": 50,
+      "coordination": "Warm up C–Am–Em–G shapes without tiring repetitions.",
+      "picking": "Record 16 bars of Pattern A; save BPM and quarter-note rate. Use the same tempo as yesterday if possible.",
+      "solo": "Record recognisable melody and at least one short melody-plus-bass phrase.",
+      "ear": "Score timing, clarity, continuity, relaxation; add melody balance for combined music.",
+      "checkpoint": "Save clip and second dated benchmark if it passes.",
+      "resourceIds": [
+        "first"
+      ],
+      "exerciseIds": [
+        "pattern-a",
+        "layers",
+        "chord-change"
+      ],
+      "isReview": false,
+      "recordingSuggested": true
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Review and choose the next step",
+      "minutes": 20,
+      "coordination": "20-minute review: compare a short movement test with Day 1; relaxed checks.",
+      "picking": "In the three-minute benchmark slot, repeat 16 bars of Pattern A over C–Am–Em–G, one chord per four beats, at your logged clean tempo. No new speed goal. Pattern B waits until A feels easy.",
+      "solo": "Play favourite learned phrases for enjoyment. Choose next month’s unfinished phrase or piece.",
+      "ear": "Name one gain, one bottleneck and one exact next task.",
+      "checkpoint": "Celebrate Month 1. If G still breaks pulse, keep C–Am–Em fluent and repair C–G next week. Next month adds Amazing Grace, your first piece from the practice ladder.",
+      "resourceIds": [
+        "first",
+        "basics"
+      ],
+      "exerciseIds": [
+        "pattern-a"
+      ],
+      "isReview": true,
+      "recordingSuggested": false
+    }
+  ],
+  "scoring": {
+    "scale": [
+      0,
+      1,
+      2
+    ],
+    "dimensions": [
+      {
+        "id": "timing",
+        "title": "Timing",
+        "labels": [
+          "Beat repeatedly lost",
+          "Some drift or hesitation",
+          "Pulse stays steady"
+        ]
+      },
+      {
+        "id": "clarity",
+        "title": "Clarity",
+        "labels": [
+          "Many unintended muted/buzzing notes",
+          "Some unclear notes",
+          "Mostly clean notes"
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Continuity",
+        "labels": [
+          "Frequent stops or restarts",
+          "Completes with hesitations",
+          "Completes without restarts"
+        ]
+      },
+      {
+        "id": "balance",
+        "title": "Melody balance",
+        "labels": [
+          "Tune hard to hear",
+          "Tune sometimes clear",
+          "Tune clearly in front"
+        ],
+        "allowNA": true
+      },
+      {
+        "id": "relaxation",
+        "title": "Relaxation",
+        "labels": [
+          "Excess grip or rushed movement",
+          "Tension comes and goes",
+          "Movement feels easy at this tempo"
+        ]
+      }
+    ],
+    "instructions": "Use four dimensions early (8 possible); mark melody balance N/A until melody and bass combine (10 possible). Choose the lowest dimension as next focus. This is self-observation, not an exam.",
+    "passRule": "Demonstrate the month’s musical task twice on separate days at a logged controlled tempo. Pulse holds, required melody/bass is recognisable, and you do not restart; small slips are acceptable."
+  },
+  "troubleshooting": [
+    {
+      "problem": "Same bar fails for a week",
+      "action": "Reduce to melody or bass alone; loop its approach and exit; lower tempo and simplify extra notes."
+    },
+    {
+      "problem": "Chords clean but rhythm stops",
+      "action": "Count aloud. Use one bass pluck per bar, then restore picking; identify which hand caused the stop."
+    },
+    {
+      "problem": "Month goal needs more time",
+      "action": "Extend this block for 1–2 weeks, keep familiar music, and delay the next optional technique."
+    },
+    {
+      "problem": "Motivation drops",
+      "action": "Use the 15-minute minimum, play a favourite, and compare an old clip. Pick a smaller Saturday win."
+    },
+    {
+      "problem": "Melody buried under the bass",
+      "action": "Rest-stroke the melody notes, soften the thumb, and palm-mute the bass lightly. Record and check from playback."
+    },
+    {
+      "problem": "Thumb drifts or collapses into the fingers",
+      "action": "Go back to thumb-alone bass for 3 minutes with the fingers resting still. Keep the thumb outside the fingers."
+    },
+    {
+      "problem": "Slap rushes ahead of the beat",
+      "action": "Click on 2 and 4 only at half tempo; say “boom-SLAP” aloud. Four bars, then rest."
+    },
+    {
+      "problem": "Tempo stuck for a week",
+      "action": "Drop 10 BPM, get 3 clean reps, and add one exploration rep 10–15% faster per session. Judge the next morning, not during practice."
+    },
+    {
+      "problem": "Hands ache after practice",
+      "action": "Follow the health ladder: shorten, add breaks, check posture and string height. Pain into the next day means stop and get checked."
+    }
+  ],
+  "logPrompts": [
+    "Clean tempo and note rate",
+    "One thing that improved",
+    "Exact bar or movement to repair tomorrow",
+    "Recording filename or link (optional)"
+  ],
+  "completionMessage": "Save your best takes at Months 3, 6, 9 and 12. Returning after a missed day is a win; perfect streaks are unnecessary.",
+  "practiceRules": [
+    {
+      "id": "clean-tempo",
+      "title": "Clean tempo",
+      "rule": "A tempo is “clean” after 3 repetitions in a row with no stops, the pulse held and your hands relaxed.",
+      "basis": "Rule of thumb informed by Duke, Simmons & Cash (2009)."
+    },
+    {
+      "id": "tempo-raise",
+      "title": "Raising tempo",
+      "rule": "After a clean tempo, raise 4–6 BPM. Raise a passage by at most about 10% per day. On a miss, drop back to the last clean tempo.",
+      "basis": "Rule of thumb; no study fixes these numbers."
+    },
+    {
+      "id": "exploration",
+      "title": "One exploration rep",
+      "rule": "Once per session, try a single repetition 10–15% faster. It does not count towards your clean tempo.",
+      "basis": "Echoes the deliberate tempo variation used by the best practisers in Duke 2009."
+    },
+    {
+      "id": "error",
+      "title": "When you miss",
+      "rule": "Stop at the first error, name it (fret, pick or count), change one thing (slower, fewer notes, softer), then retry. Never repeat an identical failed attempt.",
+      "basis": "Duke 2009; Killion & Duke 2025."
+    },
+    {
+      "id": "finish",
+      "title": "Finish on correct reps",
+      "rule": "End each chunk, and the session, with 2–3 correct repetitions at the clean tempo.",
+      "basis": "Inferred from Allen & Duke 2013: practice cut short left players worse the next morning."
+    },
+    {
+      "id": "micro-rest",
+      "title": "Micro-rests",
+      "rule": "Take one breath and release your hands every 3–5 repetitions. Much of the learning happens in these pauses.",
+      "basis": "Buch et al. 2021 (a non-music typing task)."
+    },
+    {
+      "id": "blocked-then-mixed",
+      "title": "Repeat early, mix later",
+      "rule": "On Monday and Tuesday, repeat the new chunk in a block. From Wednesday to Friday, rotate every 3–5 minutes between the target, its join and an older piece. Mixing feels worse but tends to stick better.",
+      "basis": "Carter & Grahn 2016; Porter et al. (non-music)."
+    },
+    {
+      "id": "cold-take",
+      "title": "Cold retention takes",
+      "rule": "On Tuesday and Sunday, play the week’s phrase once before warming up, and log how it went.",
+      "basis": "Rule of thumb; sleep consolidation research."
+    },
+    {
+      "id": "sound-focus",
+      "title": "Listen, don’t watch",
+      "rule": "Use sound cues such as “the melody rings over the thumb” rather than watching your fingers. This is a low-risk default, not a proven gain.",
+      "basis": "Mixed evidence (Mornell & Wulf 2019; a 2024 review)."
+    },
+    {
+      "id": "sing-imagine-play",
+      "title": "Sing, imagine, play",
+      "rule": "For an expressive phrase, sing it once, imagine it once, then play it. Always finish on the instrument.",
+      "basis": "A randomised trial with trumpet students (Frontiers 2021)."
+    },
+    {
+      "id": "scoring",
+      "title": "Score from playback",
+      "rule": "On Saturday, listen to the lesson or model recording first, then score from your recording rather than while playing. Compare with last month, not only last week. Once a month, get an outside listener.",
+      "basis": "Self-assessment research (2025); Ericsson’s requirement for feedback."
+    },
+    {
+      "id": "never-twice",
+      "title": "Never miss twice",
+      "rule": "A missed day creates no practice debt. Just don’t miss two days in a row: use the 15-minute minimum instead. Expect practice to feel automatic around Month 3.",
+      "basis": "Lally et al. 2010: habits took a median of about 66 days, and one missed day did not matter."
+    }
+  ],
+  "healthLadder": {
+    "levels": [
+      {
+        "level": "Normal",
+        "signs": "Mild fingertip tenderness in the first weeks.",
+        "action": "Carry on. Calluses usually form over 2–4 weeks."
+      },
+      {
+        "level": "Adjust",
+        "signs": "Aching in the hand, wrist, neck or back that clears within a few hours.",
+        "action": "Shorten the session, add breaks, check posture and the chair’s back support, and cap new techniques."
+      },
+      {
+        "level": "Stop",
+        "signs": "Pain that lasts into the next day or returns despite rest; numbness, tingling, weakness, loss of dexterity or fingers curling involuntarily.",
+        "action": "Stop playing and see a clinician, ideally one who works with performing artists."
+      }
+    ],
+    "safeguards": [
+      "Week 1 setup check: measure string height at fret 12. If the low E is above about 3 mm, get a professional setup. Light strings (12s or custom-light 11s) are kinder at first.",
+      "Days 1–14: if your fingertips are sore, split the session (for example 25 + 25 minutes) and use the ear block as fingers-off time.",
+      "In the first week of any new technique (slap, barre, partial barre, harmonics), keep it to 5–10 minutes a day.",
+      "Sit on a chair with back support. Film a short posture and tension check once a month.",
+      "Nails are optional for this style. If you use them, keep them short and smooth. Sungha Jung strengthens his, but that is a later choice.",
+      "Sudden jumps in playing time are a common injury trigger. Increase your practice time gradually."
+    ],
+    "source": "BAPAM (British Association for Performing Arts Medicine); RISMUS survey of 850 music students; focal-dystonia reviews."
+  },
+  "practicePieces": [
+    {
+      "id": "happy-birthday",
+      "title": "Happy Birthday",
+      "composer": "Traditional",
+      "month": 1,
+      "role": "core",
+      "level": "JustinGuitar beginner",
+      "url": "https://www.justinguitar.com/modules/fingerstyle-songwriting-first-steps",
+      "source": "JustinGuitar (free)",
+      "skills": "Melody first, then sparse bass; 3/4 time",
+      "prepares": "Hearing a melody and finding it, the first step of every goal piece",
+      "notes": ""
+    },
+    {
+      "id": "carulli-arpeges",
+      "title": "Arpèges de trois notes",
+      "composer": "Ferdinando Carulli",
+      "month": 1,
+      "role": "bonus",
+      "level": "Beginner (classical)",
+      "url": "https://www.thisisclassicalguitar.com/arpeges-de-trois-notes-carulli-free-pdf/",
+      "source": "This is Classical Guitar (free PDF)",
+      "skills": "p-i-m arpeggios over held chords",
+      "prepares": "The even arpeggios under 流れ行く雲",
+      "notes": ""
+    },
+    {
+      "id": "amazing-grace",
+      "title": "Amazing Grace (easy)",
+      "composer": "Traditional",
+      "month": 2,
+      "role": "core",
+      "level": "SSF level 1",
+      "url": "https://sixstringfingerpicking.com/songs/amazing-grace-guitar-lesson-easy/",
+      "source": "Six String Fingerpicking: free video lesson; TAB free with an email signup (some are paid)",
+      "skills": "Melody over bass in 3/4",
+      "prepares": "Melody on top with a supporting thumb, as in secret base",
+      "notes": ""
+    },
+    {
+      "id": "silent-night",
+      "title": "Silent Night (beginner)",
+      "composer": "Franz Xaver Gruber",
+      "month": 2,
+      "role": "bonus",
+      "level": "SSF level 1",
+      "url": "https://sixstringfingerpicking.com/songs/silent-night-beginner-guitar-lesson/",
+      "source": "Six String Fingerpicking: free video lesson; TAB free with an email signup (some are paid)",
+      "skills": "Slow 3/4 melody, long notes",
+      "prepares": "Letting long notes ring, as in 流れ行く雲",
+      "notes": ""
+    },
+    {
+      "id": "greensleeves",
+      "title": "Greensleeves",
+      "composer": "Traditional",
+      "month": 3,
+      "role": "core",
+      "level": "SSF level 1 / classical preparatory",
+      "url": "https://www.thisisclassicalguitar.com/lesson-easy-greensleeves-classical-guitar/",
+      "source": "This is Classical Guitar (free PDF); also on SSF",
+      "skills": "Minor key, 3/4, melody with bass",
+      "prepares": "Minor-key colour and phrasing",
+      "notes": ""
+    },
+    {
+      "id": "giuliani-andantino",
+      "title": "Andantino Op. 50 No. 1",
+      "composer": "Mauro Giuliani",
+      "month": 3,
+      "role": "bonus",
+      "level": "Classical grade 1",
+      "url": "https://www.thisisclassicalguitar.com/lesson-andantino-op-50-no-1-giuliani-easy/",
+      "source": "This is Classical Guitar (free PDF)",
+      "skills": "p-i-m-a arpeggio patterns",
+      "prepares": "Steady right-hand patterns under a melody",
+      "notes": ""
+    },
+    {
+      "id": "freight-train",
+      "title": "Freight Train (easy)",
+      "composer": "Elizabeth Cotten",
+      "month": 4,
+      "role": "core",
+      "level": "SSF level 2",
+      "url": "https://sixstringfingerpicking.com/songs/freighttrain/",
+      "source": "Six String Fingerpicking: free video lesson; TAB free with an email signup (some are paid)",
+      "skills": "Travis picking: alternating thumb under a melody",
+      "prepares": "The moving thumb under the secret base verse",
+      "notes": ""
+    },
+    {
+      "id": "carulli-waltz",
+      "title": "Waltz Op. 121 No. 1",
+      "composer": "Ferdinando Carulli",
+      "month": 4,
+      "role": "bonus",
+      "level": "Classical grade 1",
+      "url": "https://www.thisisclassicalguitar.com/lesson-waltz-op-121-no-1-carulli-easy/",
+      "source": "This is Classical Guitar (free PDF)",
+      "skills": "Waltz bass and chords, reading rhythm",
+      "prepares": "The 3/4 flow of 流れ行く雲",
+      "notes": ""
+    },
+    {
+      "id": "scarborough-fair",
+      "title": "Scarborough Fair (arrangement)",
+      "composer": "Traditional",
+      "month": 5,
+      "role": "core",
+      "level": "SSF level 2",
+      "url": "https://sixstringfingerpicking.com/songs/scarborough-fair-arrangement-guitar-lesson/",
+      "source": "Six String Fingerpicking: free video lesson; TAB free with an email signup (some are paid)",
+      "skills": "Rest-stroke melody over soft bass, minor 3/4",
+      "prepares": "Melody balance, which every goal piece needs",
+      "notes": ""
+    },
+    {
+      "id": "fur-elise",
+      "title": "Für Elise",
+      "composer": "Ludwig van Beethoven",
+      "month": 5,
+      "role": "bonus",
+      "level": "SSF level 2",
+      "url": "https://sixstringfingerpicking.com/songs/fur-elise-guitar-lesson/",
+      "source": "Six String Fingerpicking: free video lesson; TAB free with an email signup (some are paid)",
+      "skills": "Melody moving across strings, light bass",
+      "prepares": "A “piano classic” for motivation; clean string crossing",
+      "notes": ""
+    },
+    {
+      "id": "rising-sun",
+      "title": "House of the Rising Sun (easy)",
+      "composer": "Traditional / The Animals",
+      "month": 6,
+      "role": "core",
+      "level": "SSF level 2",
+      "url": "https://sixstringfingerpicking.com/songs/houseoftherisingsun/",
+      "source": "Six String Fingerpicking: free video lesson; TAB free with an email signup (some are paid)",
+      "skills": "Arpeggios in 6/8, chord changes on time",
+      "prepares": "Flowing arpeggios under a tune",
+      "notes": ""
+    },
+    {
+      "id": "wonderful-world",
+      "title": "What a Wonderful World",
+      "composer": "Louis Armstrong",
+      "month": 6,
+      "role": "bonus",
+      "level": "SSF level 2",
+      "url": "https://sixstringfingerpicking.com/songs/whatawonderfulworld/",
+      "source": "Six String Fingerpicking: free video lesson; TAB free with an email signup (some are paid)",
+      "skills": "Chord-melody with a pop feel",
+      "prepares": "A pop song arranged for solo guitar, like secret base",
+      "notes": ""
+    },
+    {
+      "id": "spanish-romance",
+      "title": "Spanish Romance (part A)",
+      "composer": "Anonymous",
+      "month": 7,
+      "role": "core",
+      "level": "SSF level 2",
+      "url": "https://sixstringfingerpicking.com/songs/spanish-romance-guitar-lesson/",
+      "source": "Six String Fingerpicking: free video lesson; TAB free with an email signup (some are paid)",
+      "skills": "Triplet arpeggios with melody on string 1; partial barres",
+      "prepares": "The partial barre and ringing texture of 流れ行く雲",
+      "notes": ""
+    },
+    {
+      "id": "ash-grove",
+      "title": "The Ash Grove",
+      "composer": "Traditional (Welsh)",
+      "month": 7,
+      "role": "bonus",
+      "level": "Classical grade 2",
+      "url": "https://www.thisisclassicalguitar.com/the-ash-grove-for-easy-guitar/",
+      "source": "This is Classical Guitar (free PDF)",
+      "skills": "Singing melody with a simple bass",
+      "prepares": "Phrasing a slow melody",
+      "notes": ""
+    },
+    {
+      "id": "moon-river",
+      "title": "Moon River",
+      "composer": "Henry Mancini",
+      "month": 8,
+      "role": "core",
+      "level": "SSF level 3",
+      "url": "https://sixstringfingerpicking.com/songs/moon-river-guitar-lesson/",
+      "source": "Six String Fingerpicking: free video lesson; TAB free with an email signup (some are paid)",
+      "skills": "Chord-melody arranging: melody on top of chord shapes",
+      "prepares": "A model to copy for your own secret base arrangement",
+      "notes": ""
+    },
+    {
+      "id": "danny-boy",
+      "title": "Danny Boy",
+      "composer": "Traditional",
+      "month": 8,
+      "role": "bonus",
+      "level": "SSF level 3",
+      "url": "https://sixstringfingerpicking.com/songs/danny-boy-guitar-lesson/",
+      "source": "Six String Fingerpicking: free video lesson; TAB free with an email signup (some are paid)",
+      "skills": "Expressive slow melody, bass movement",
+      "prepares": "Long phrases and dynamics",
+      "notes": ""
+    },
+    {
+      "id": "lagrima",
+      "title": "Lágrima",
+      "composer": "Francisco Tárrega",
+      "month": 9,
+      "role": "core",
+      "level": "SSF level 3",
+      "url": "https://sixstringfingerpicking.com/songs/lagrima-guitar-lesson/",
+      "source": "Six String Fingerpicking: free video lesson; TAB free with an email signup (some are paid)",
+      "skills": "Minor/major contrast, shifts up the neck, dynamics",
+      "prepares": "Position shifts and expressive rubato for 奇跡の山",
+      "notes": ""
+    },
+    {
+      "id": "dust-in-the-wind",
+      "title": "Dust in the Wind (intro and verse)",
+      "composer": "Kansas",
+      "month": 9,
+      "role": "bonus",
+      "level": "SSF level 4",
+      "url": "https://sixstringfingerpicking.com/songs/dustinthewind/",
+      "source": "Six String Fingerpicking: free video lesson; TAB free with an email signup (some are paid)",
+      "skills": "Travis-style arpeggio with hammer-ons",
+      "prepares": "Hammer-ons inside a moving pattern",
+      "notes": ""
+    },
+    {
+      "id": "sor-andante",
+      "title": "Andante Op. 35 No. 1",
+      "composer": "Fernando Sor",
+      "month": 10,
+      "role": "bonus",
+      "level": "Classical grade 2",
+      "url": "https://www.thisisclassicalguitar.com/lesson-andante-op-35-no-1-sor-easy/",
+      "source": "This is Classical Guitar (free PDF)",
+      "skills": "Two-voice writing: melody and bass moving independently",
+      "prepares": "Independent voices, as in 奇跡の山",
+      "notes": ""
+    },
+    {
+      "id": "skye-boat",
+      "title": "The Skye Boat Song",
+      "composer": "Traditional (Scottish)",
+      "month": 10,
+      "role": "bonus",
+      "level": "Classical grade 2",
+      "url": "https://www.thisisclassicalguitar.com/the-skye-boat-song-easy-guitar/",
+      "source": "This is Classical Guitar (free PDF)",
+      "skills": "Broad 6/8 melody",
+      "prepares": "A calm warm-up piece for your set",
+      "notes": ""
+    }
+  ],
+  "goalPieces": [
+    {
+      "id": "secret-base",
+      "title": "secret base ～君がくれたもの～",
+      "composer": "ZONE; your own arrangement first, a published one later",
+      "tuning": "Standard",
+      "capo": "Capo 4, so C-shape chords sound in the original key",
+      "tempo": "Your comfortable tempo; the original is much faster",
+      "why": "A song you love, built from chords you already know. You grow it with you: melody, then bass, then your own full arrangement.",
+      "resourceIds": [
+        "sb-chords",
+        "sb-solo",
+        "arranging"
+      ],
+      "stages": [
+        {
+          "id": "sb-1",
+          "month": 4,
+          "title": "Chorus melody",
+          "goal": "Sing the chorus, then find its melody on strings 1–3 with capo 4. Play it in rhythm, melody alone.",
+          "unlockedBy": "Hum-and-find (Months 1–3), Amazing Grace"
+        },
+        {
+          "id": "sb-2",
+          "month": 5,
+          "title": "Chorus + root bass",
+          "goal": "Put a thumb root on each chord change under the chorus melody, with a pinch where they land together.",
+          "unlockedBy": "Pinch (Month 1), monotonic bass (Month 3), Freight Train"
+        },
+        {
+          "id": "sb-3",
+          "month": 6,
+          "title": "Verse + chorus",
+          "goal": "Verse and chorus straight through: rest-stroke melody over a soft thumb, with alternating bass where it fits.",
+          "unlockedBy": "Travis picking (Month 4), rest stroke (Month 5), Scarborough Fair"
+        },
+        {
+          "id": "sb-4",
+          "month": 8,
+          "title": "Your full arrangement",
+          "goal": "Add an intro and outro from the hook, a slap on 2 and 4 in the last chorus and a harmonic ending. Write it as TAB + rhythm + chord numbers.",
+          "unlockedBy": "Backbeat slap and harmonics (Month 6), the arranging recipe and Moon River (Month 8)"
+        },
+        {
+          "id": "sb-5",
+          "month": 12,
+          "title": "Stretch: a published version",
+          "goal": "Optional: learn a section of a published intermediate arrangement and compare it with yours.",
+          "unlockedBy": "Everything above"
+        }
+      ]
+    },
+    {
+      "id": "nagareyuku-kumo",
+      "title": "流れ行く雲",
+      "composer": "岸部眞明 (Masaaki Kishibe), from the album 奇跡の山 (2006)",
+      "tuning": "C G D G A D (retune strings 6, 5 and 2)",
+      "capo": "Learn at capo 5 (Kishibe has played it there); the original capo 9 is optional later",
+      "tempo": "♩ = 63, slow and flowing",
+      "why": "One of Kishibe’s simplest pieces: a slow, music-box-like tune that is easy to memorise. It is your first open-tuning piece.",
+      "resourceIds": [
+        "kumo-score",
+        "kumo-notes"
+      ],
+      "stages": [
+        {
+          "id": "kumo-1",
+          "month": 7,
+          "title": "Retune and the opening",
+          "goal": "Tune to C G D G A D and back without stress. Learn the opening phrase at capo 5, and drill the fret-4 cluster on strings 6–5–4 for 5 minutes a day.",
+          "unlockedBy": "Partial barres (Months 5 and 7), Spanish Romance"
+        },
+        {
+          "id": "kumo-2",
+          "month": 8,
+          "title": "First half",
+          "goal": "The first half with bass at ♩≈45. Mute string 2 right after the open string 3 sounds.",
+          "unlockedBy": "Muting (Months 2–3), Carulli arpeggios"
+        },
+        {
+          "id": "kumo-3",
+          "month": 9,
+          "title": "Whole piece, slowly",
+          "goal": "Play it start to finish at ♩≈50.",
+          "unlockedBy": "Landing spots in your solos (Month 3)"
+        },
+        {
+          "id": "kumo-4",
+          "month": 10,
+          "title": "Flowing at tempo",
+          "goal": "Play at ♩=55–63 with a planned soft-to-moderate shape, like clouds drifting.",
+          "unlockedBy": "Dynamics (Months 5 and 9), Lágrima"
+        }
+      ]
+    },
+    {
+      "id": "kiseki-no-yama",
+      "title": "奇跡の山",
+      "composer": "岸部眞明 (Masaaki Kishibe), NHK documentary theme (2006)",
+      "tuning": "Open D: D A D F♯ A D",
+      "capo": "Capo 2",
+      "tempo": "Slow and grand; learn it well below the recording",
+      "why": "Your year-one summit. It is rated intermediate, with stretchy shapes, a neck-bend “wave”, vibrato and muting, so each earlier month hands you one of its tools.",
+      "resourceIds": [
+        "yama-score",
+        "yama-lesson",
+        "yama-live",
+        "kishibe"
+      ],
+      "stages": [
+        {
+          "id": "yama-1",
+          "month": 9,
+          "title": "Open D and the main theme",
+          "goal": "Retune to open D with capo 2. Learn the main theme’s melody alone, 4–8 bars.",
+          "unlockedBy": "Drop D (Month 9), retuning practice from 流れ行く雲"
+        },
+        {
+          "id": "yama-2",
+          "month": 10,
+          "title": "Theme with bass",
+          "goal": "The main theme with bass, 8–16 bars, at 70–90% of your target tempo. Add a small vibrato on long notes.",
+          "unlockedBy": "Vibrato (Month 7), Lágrima, Sor Andante"
+        },
+        {
+          "id": "yama-3",
+          "month": 11,
+          "title": "The stretch section",
+          "goal": "Learn the section with the stretchy shapes in 5–10 minute drills. Never force a reach.",
+          "unlockedBy": "Partial barres and full F (Months 5–8)"
+        },
+        {
+          "id": "yama-4",
+          "month": 12,
+          "title": "Whole piece, slowly",
+          "goal": "Start to finish at a slow, steady tempo, with the neck-bend wave and muting. Stumbles are fine; keep the beat.",
+          "unlockedBy": "Landing-spot memorisation (Month 11)"
+        }
+      ]
+    }
+  ]
+}
